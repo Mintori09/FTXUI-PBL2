@@ -87,3 +87,12 @@
 10575	17027	7518189004535096	ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.obj	11c236cb27d90073
 26	7049	7518255315641049	CMakeFiles/ftxui_starter.dir/main.cpp.obj	3f0d87edea6256a9
 7050	7832	7518255385875508	ftxui_starter.exe	34025eac798c8c8b
+275	10216	7518291205639463	CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.obj	2c0b034db112730c
+123	10245	7518291204114005	CMakeFiles/ftxui_starter.dir/src/Movies.cpp.obj	1b0639e2af97a79a
+166	10258	7518291204550640	CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.obj	f5fe20fef52a2eb8
+79	10654	7518291203673455	CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.obj	64e77c29d894b2ff
+57	10700	7518291203453514	CMakeFiles/ftxui_starter.dir/src/Account.cpp.obj	937e358a9063fc55
+220	10780	7518291205102668	CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.obj	e754a5ef298b0df2
+316	10917	7518291206114206	CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.obj	9be5ee98489237a2
+101	11118	7518291203887072	CMakeFiles/ftxui_starter.dir/src/Movie.cpp.obj	622fb24d1b74f7c2
+11118	12057	7518291314066821	ftxui_starter.exe	34025eac798c8c8b
