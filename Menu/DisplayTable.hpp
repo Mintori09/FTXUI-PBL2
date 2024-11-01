@@ -242,85 +242,7 @@ ftxui::Element DisplayShowTimes(const Vector<ShowTime>& showTimes,
 
     return vbox(showtime_rows) | border | center;
 }
-int selectMovie(const Vector<Movie> &movie, const Vector<ShowTime> &showtime) {
-    Vector<Movie> movies = getMoviesWithFutureShowTimes(showtime, movie);
-    using namespace ftxui;
-    std::string movieId;
-    std::string search_query;
-    std::string search_message;
-    auto screen = ScreenInteractive::Fullscreen();
-
-    // Các trường nhập liệu
-    auto search_input = Input(&search_query, "Search for movies...");
-    auto movie_input = Input(&movieId, "Enter Movie ID...");
-    bool exit = false;
-    // Nút thoát
-    auto exit_button = Button("Exit", [&] {
-        exit = true;
-        system("cls");
-        screen.Exit();  // Thoát màn hình
-    });
-
-    bool selected = false;  // Biến để theo dõi việc chọn phim
-    auto select_movie_button = Button("Enter", [&] {
-        // Kiểm tra nếu movieId không rỗng và là số
-        if (!movieId.empty() && validInteger(movieId)) {
-            int id = std::stoi(movieId);  // Chuyển đổi movieId sang số nguyên
-            if (checkMovieId(id, movies)) {
-                system("cls");
-                selected = true;            // Đánh dấu đã chọn phim
-                screen.Exit();              // Thoát màn hình
-            } else {
-                search_message =
-                    "Movie not found!";  // Thông báo nếu không tìm thấy phim
-            }
-        } else {
-            search_message =
-                "Invalid Movie ID!";  // Thông báo nếu ID không hợp lệ
-        }
-    });
-
-    // Tạo container cho các thành phần
-    auto container = Container::Vertical(Components{
-        search_input,
-        movie_input,
-        select_movie_button,
-        exit_button,
-        Renderer(
-            [&] { return text(search_message) | bold | color(Color::Green); }),
-    });
-
-    // Tạo renderer để hiển thị giao diện
-    auto renderer = Renderer(container, [&] {
-        return vbox({
-                   search_input->Render() | border | size(WIDTH, EQUAL, 50) |
-                       center,
-                   hbox({
-                       movie_input->Render() | border | size(WIDTH, EQUAL, 25) |
-                           center,
-                       select_movie_button->Render() | center,
-                       text(search_message) | center | color(Color::Red),
-
-                   }),
-                   DisplayMovies(movies,
-                                 search_query),  // Hiển thị danh sách phim
-                   exit_button->Render() | size(WIDTH, EQUAL, 25) | center,
-               }) |
-               border | center;
-    });
-
-    // Tạo và khởi động màn hình
-    while (!selected && !exit) {  // Chỉ tiếp tục khi chưa chọn phim
-        screen.Loop(renderer);
-    }
-    if (exit) {
-        return -1;
-    }
-    // Trả về ID phim đã chọn
-    return std::stoi(movieId);  // Đây là ID hợp lệ đã chọn
-}
-
-int selectMovieForShowTime(const Vector<Movie>& movie, const Vector<ShowTime>& showtime) {
+int selectMovie(const Vector<Movie>& movie, const Vector<ShowTime>& showtime) {
     Vector<Movie> movies = getMoviesWithFutureShowTimes(showtime, movie);
     using namespace ftxui;
     std::string movieId;
@@ -398,7 +320,86 @@ int selectMovieForShowTime(const Vector<Movie>& movie, const Vector<ShowTime>& s
     return std::stoi(movieId);  // Đây là ID hợp lệ đã chọn
 }
 
-int selectShowTime(Vector<Movie> &movies, Vector<ShowTime> &showtimes) {
+int selectMovieForShowTime(const Vector<Movie>& movie,
+                           const Vector<ShowTime>& showtime) {
+    Vector<Movie> movies = getMoviesWithFutureShowTimes(showtime, movie);
+    using namespace ftxui;
+    std::string movieId;
+    std::string search_query;
+    std::string search_message;
+    auto screen = ScreenInteractive::Fullscreen();
+
+    // Các trường nhập liệu
+    auto search_input = Input(&search_query, "Search for movies...");
+    auto movie_input = Input(&movieId, "Enter Movie ID...");
+    bool exit = false;
+    // Nút thoát
+    auto exit_button = Button("Exit", [&] {
+        exit = true;
+        system("cls");
+        screen.Exit();  // Thoát màn hình
+    });
+
+    bool selected = false;  // Biến để theo dõi việc chọn phim
+    auto select_movie_button = Button("Enter", [&] {
+        // Kiểm tra nếu movieId không rỗng và là số
+        if (!movieId.empty() && validInteger(movieId)) {
+            int id = std::stoi(movieId);  // Chuyển đổi movieId sang số nguyên
+            if (checkMovieId(id, movies)) {
+                system("cls");
+                selected = true;  // Đánh dấu đã chọn phim
+                screen.Exit();    // Thoát màn hình
+            } else {
+                search_message =
+                    "Movie not found!";  // Thông báo nếu không tìm thấy phim
+            }
+        } else {
+            search_message =
+                "Invalid Movie ID!";  // Thông báo nếu ID không hợp lệ
+        }
+    });
+
+    // Tạo container cho các thành phần
+    auto container = Container::Vertical(Components{
+        search_input,
+        movie_input,
+        select_movie_button,
+        exit_button,
+        Renderer(
+            [&] { return text(search_message) | bold | color(Color::Green); }),
+    });
+
+    // Tạo renderer để hiển thị giao diện
+    auto renderer = Renderer(container, [&] {
+        return vbox({
+                   search_input->Render() | border | size(WIDTH, EQUAL, 50) |
+                       center,
+                   hbox({
+                       movie_input->Render() | border | size(WIDTH, EQUAL, 25) |
+                           center,
+                       select_movie_button->Render() | center,
+                       text(search_message) | center | color(Color::Red),
+
+                   }),
+                   DisplayMovies(movies,
+                                 search_query),  // Hiển thị danh sách phim
+                   exit_button->Render() | size(WIDTH, EQUAL, 25) | center,
+               }) |
+               border | center;
+    });
+
+    // Tạo và khởi động màn hình
+    while (!selected && !exit) {  // Chỉ tiếp tục khi chưa chọn phim
+        screen.Loop(renderer);
+    }
+    if (exit) {
+        return -1;
+    }
+    // Trả về ID phim đã chọn
+    return std::stoi(movieId);  // Đây là ID hợp lệ đã chọn
+}
+
+int selectShowTimeInFuture(Vector<Movie>& movies, Vector<ShowTime>& showtimes) {
     Vector<ShowTime> showTimes = getFutureShowTimes(showtimes, movies);
     using namespace ftxui;
     std::string search_query;
@@ -419,14 +420,13 @@ int selectShowTime(Vector<Movie> &movies, Vector<ShowTime> &showtimes) {
 
     bool selected = false;  // Biến để theo dõi việc chọn phim
     auto select_showtime_button = Button("Enter", [&] {
-        // Kiểm tra nếu movieId không rỗng và là số
         if (!showTimeId.empty() && validInteger(showTimeId)) {
             int id =
                 std::stoi(showTimeId);  // Chuyển đổi movieId sang số nguyên
             if (checkShowTimeId(id, showTimes)) {
                 system("cls");
-                selected = true;            // Đánh dấu đã chọn phim
-                screen.Exit();              // Thoát màn hình
+                selected = true;  // Đánh dấu đã chọn phim
+                screen.Exit();    // Thoát màn hình
             } else {
                 search_message =
                     "Showtime not found!";  // Thông báo nếu không tìm thấy phim
@@ -472,7 +472,8 @@ int selectShowTime(Vector<Movie> &movies, Vector<ShowTime> &showtimes) {
     }
     return std::stoi(showTimeId);
 }
-int selectShowTimeCurrentAndFuture(const Vector<Movie>& movies, const Vector<ShowTime>& showtimes) {
+int selectShowTimeCurrentAndFuture(const Vector<Movie>& movies,
+                                   const Vector<ShowTime>& showtimes) {
     Vector<ShowTime> showTimes = getFutureShowTimes(showtimes, movies);
     using namespace ftxui;
     std::string search_query;
@@ -547,6 +548,80 @@ int selectShowTimeCurrentAndFuture(const Vector<Movie>& movies, const Vector<Sho
     return std::stoi(showTimeId);
 }
 
+void displayMovie(const Vector<Movie>& movie,
+                  const Vector<ShowTime>& showtime) {
+    Vector<Movie> movies = getMoviesWithFutureShowTimes(showtime, movie);
+    using namespace ftxui;
+    std::string search_query;
+    auto screen = ScreenInteractive::Fullscreen();
+
+    // Các trường nhập liệu
+    auto search_input = Input(&search_query, "Search for movies...");
+    bool exit = false;
+    // Nút thoát
+    auto exit_button = Button("Exit", [&] {
+        exit = true;
+        system("cls");
+        screen.Exit();  // Thoát màn hình
+    });
+
+    // Tạo container cho các thành phần
+    auto container = Container::Vertical(Components{
+        search_input,
+        exit_button,
+    });
+
+    // Tạo renderer để hiển thị giao diện
+    auto renderer = Renderer(container, [&] {
+        return vbox({
+                   search_input->Render() | border | size(WIDTH, EQUAL, 50) |
+                       center,
+                   DisplayMovies(movies,
+                                 search_query),  // Hiển thị danh sách phim
+                   exit_button->Render() | size(WIDTH, EQUAL, 25) | center,
+               }) |
+               border | center;
+    });
+
+    // Tạo và khởi động màn hình
+    while (!exit) {  // Chỉ tiếp tục khi chưa chọn phim
+        screen.Loop(renderer);
+    }
+}
+void displayShowTimes(Vector<Movie>& movies, Vector<ShowTime>& showtimes) {
+    Vector<ShowTime> showTimes = getFutureShowTimes(showtimes, movies);
+    using namespace ftxui;
+    std::string search_query;
+    auto screen = ScreenInteractive::Fullscreen();
+    // Các trường nhập liệu
+    auto search_input = Input(&search_query, "Search for movies...");
+
+    auto exit_button = Button("Exit", [&] {
+        system("cls");
+        screen.Exit();  // Thoát màn hình
+    });
+
+    // Tạo container cho các thành phần
+    auto container = Container::Vertical(Components{
+        search_input,
+        exit_button,
+    });
+
+    // Tạo renderer để hiển thị giao diện
+    auto renderer = Renderer(container, [&] {
+        return vbox({
+                   search_input->Render() | border | size(WIDTH, EQUAL, 50) |
+                       center,
+                   DisplayShowTimes(showTimes, movies,
+                                    search_query),  // Hiển thị danh sách phim
+                   exit_button->Render() | size(WIDTH, EQUAL, 25) | center,
+               }) |
+               border | center;
+    });
+    // Tạo và khởi động màn hình
+
+    screen.Loop(renderer);
+}
 // int main() {
 //     Movies movies(MOVIE_FILE);
 //     ShowTimes showTimes(SHOWTIME_FILE);
