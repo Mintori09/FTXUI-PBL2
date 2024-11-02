@@ -29,8 +29,8 @@ int seatNumber() {
     return seatNumber;
 }
 
-bool Tickets::addTicketForUser(const Account &account,
-                               const ShowTime &showTime) {
+bool Tickets::addTicket(const Account &account,
+                               const ShowTime &showTime, int seatNumber) {
     int ticketId;  // ticketId là kiểu int
     if (!tickets.empty()) {
         ticketId = tickets.back().getTicketId() + 1;  // Cập nhật cho ticketId
@@ -40,17 +40,17 @@ bool Tickets::addTicketForUser(const Account &account,
 
     int showTimeId = showTime.getShowTimeId();
     int userId = account.getUserId();
-    int seatNumberValue = seatNumber();  // Gọi hàm seatNumber
+    int seatNumberValue = seatNumber;  // Gọi hàm seatNumber
     int ticketPrice = 65000;             // Giá vé
 
     Date bookingDate(currentDate());
-    std::string paymentMethod;  // Phương thức thanh toán (có thể yêu cầu nhập)
+    std::string paymentMethod = "Cash";  // Phương thức thanh toán (có thể yêu cầu nhập)
 
     // Đảm bảo rằng kiểu dữ liệu và số lượng tham số khớp với hàm khởi tạo của
     // lớp Ticket
     Ticket newTicket(ticketId, showTimeId, userId, seatNumberValue, ticketPrice,
                      bookingDate, paymentMethod);
-    tickets.push_back(newTicket);
+    addTicket(newTicket);
     return true;
 }
 

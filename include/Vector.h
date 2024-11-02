@@ -15,8 +15,8 @@ class Vector {
     void resize(size_t new_capacity);
 
    public:
-    Vector();
     Vector(std::initializer_list<T> init);
+    Vector(size_t initial_capacity = 10);
     ~Vector();
     Vector(const Vector &other);             // Copy constructor
     Vector &operator=(const Vector &other);  // Operator=
@@ -37,9 +37,6 @@ class Vector {
     void clear();
     std::string toString(std::string (*item2str)(T &));
 };
-
-template <typename T>
-Vector<T>::Vector() : data(nullptr), size_(0), capacity_(0) {}
 
 template <typename T>
 Vector<T>::Vector(std::initializer_list<T> init) : Vector() {
@@ -215,4 +212,13 @@ Vector<T> &Vector<T>::operator=(const Vector &other) {
     }
     return *this;
 }
+template <typename T>
+Vector<T>::Vector(size_t initial_capacity)
+    : size_(0), capacity_(initial_capacity) {
+    if (capacity_ == 0) {
+        capacity_ = 10;  // Ensure minimum capacity
+    }
+    data = new T[capacity_];
+}
+
 #endif

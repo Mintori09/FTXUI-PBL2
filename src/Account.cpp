@@ -72,9 +72,6 @@ void Account::readFromFile(std::stringstream &ss) {
   std::getline(ss, phoneNumber, ';');
   std::getline(ss, item);
   role = std::stoi(item);
-  system("cls");
-  std::cout << "Role is " << role << std::endl;
-  system("Pause");
 }
 
 bool Account::saveToFile(const std::string &filename) const {

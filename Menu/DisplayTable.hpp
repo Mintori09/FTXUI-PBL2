@@ -242,6 +242,51 @@ ftxui::Element DisplayShowTimes(const Vector<ShowTime>& showTimes,
 
     return vbox(showtime_rows) | border | center;
 }
+ftxui::Element DisplayShowTimes(const Vector<ShowTime>& showTimes) {
+    std::cin.ignore();
+    using namespace ftxui;
+    Elements showtime_rows;
+
+    // Thêm tiêu đề bảng với màu xanh và phân cách giữa các cột
+    showtime_rows.push_back(
+        hbox(text("Showtime ID") | bold | color(Color::Blue) |
+                 size(WIDTH, EQUAL, 10) | hcenter,
+             separator(),
+             text("Movie Title") | bold | color(Color::Blue) |
+                 size(WIDTH, EQUAL, 20) | hcenter,
+             separator(),
+             text("Show Date") | bold | color(Color::Blue) |
+                 size(WIDTH, EQUAL, 12) | hcenter,
+             separator(),
+             text("Start Time") | bold | color(Color::Blue) |
+                 size(WIDTH, EQUAL, 12) | hcenter,
+             separator(),
+             text("End Time") | bold | color(Color::Blue) |
+                 size(WIDTH, EQUAL, 12) | hcenter,
+             separator(),
+             text("Hall ID") | bold | color(Color::Blue) |
+                 size(WIDTH, EQUAL, 10) | hcenter));
+
+    // Thêm hàng cho từng ShowTime với phân cách giữa các hàng
+    for (const auto& showtime : showTimes) {
+        // Kiểm tra nếu tiêu đề phim phù hợp với chuỗi tìm kiếm
+        showtime_rows.push_back(separator());
+        showtime_rows.push_back(hbox(
+            text(std::to_string(showtime.getShowTimeId())) |
+                size(WIDTH, EQUAL, 10),
+            separator(),
+            text(showtime.getShowDate().toString()) | size(WIDTH, EQUAL, 12),
+            separator(),
+            text(showtime.getStartTime().toString()) | size(WIDTH, EQUAL, 12),
+            separator(),
+            text(showtime.getEndTime().toString()) | size(WIDTH, EQUAL, 12),
+            separator(),
+            text(std::to_string(showtime.getHallId())) |
+                size(WIDTH, EQUAL, 10)));
+    }
+
+    return vbox(showtime_rows) | border | center;
+}
 int selectMovie(const Vector<Movie>& movie, const Vector<ShowTime>& showtime) {
     Vector<Movie> movies = getMoviesWithFutureShowTimes(showtime, movie);
     using namespace ftxui;
@@ -458,6 +503,79 @@ int selectShowTimeInFuture(Vector<Movie>& movies, Vector<ShowTime>& showtimes) {
                          text(search_message) | center | color(Color::Red)}),
                    DisplayShowTimes(showTimes, movies,
                                     search_query),  // Hiển thị danh sách phim
+                   exit_button->Render() | size(WIDTH, EQUAL, 25) | center,
+               }) |
+               border | center;
+    });
+    // Tạo và khởi động màn hình
+
+    while (!selected && !exit) {
+        screen.Loop(renderer);
+    }
+    if (exit) {
+        return -1;
+    }
+    return std::stoi(showTimeId);
+}
+int selectShowTimeAfterSelectMovie(const Movie& movie,
+                                   Vector<ShowTime>& showtimes) {
+    Vector<ShowTime> showTimes;
+    for (auto st : showtimes) {
+        if (st.getMovieId() == movie.getMovieId()) {
+            showTimes.push_back(st);
+        }
+    }
+    using namespace ftxui;
+    std::string search_message;
+    std::string showTimeId;
+    auto screen = ScreenInteractive::Fullscreen();
+    // Các trường nhập liệu
+    auto showtime_input = Input(&showTimeId, "Enter showtime id...");
+
+    bool exit = false;
+    // Nút thoát
+    auto exit_button = Button("Exit", [&] {
+        exit = true;
+        system("cls");
+        screen.Exit();  // Thoát màn hình
+    });
+
+    bool selected = false;  // Biến để theo dõi việc chọn phim
+    auto select_showtime_button = Button("Enter", [&] {
+        if (!showTimeId.empty() && validInteger(showTimeId)) {
+            int id =
+                std::stoi(showTimeId);  // Chuyển đổi movieId sang số nguyên
+            if (checkShowTimeId(id, showTimes)) {
+                system("cls");
+                selected = true;  // Đánh dấu đã chọn phim
+                screen.Exit();    // Thoát màn hình
+            } else {
+                search_message =
+                    "Showtime not found!";  // Thông báo nếu không tìm thấy phim
+            }
+        } else {
+            search_message =
+                "Invalid ShowTime ID!";  // Thông báo nếu ID không hợp lệ
+        }
+    });
+
+    // Tạo container cho các thành phần
+    auto container = Container::Vertical(Components{
+        exit_button,
+        showtime_input,
+        select_showtime_button,
+        Renderer(
+            [&] { return text(search_message) | bold | color(Color::Green); }),
+    });
+
+    // Tạo renderer để hiển thị giao diện
+    auto renderer = Renderer(container, [&] {
+        return vbox({
+                   hbox({showtime_input->Render() | size(WIDTH, EQUAL, 25) |
+                             center,
+                         select_showtime_button->Render() | center,
+                         text(search_message) | center | color(Color::Red)}),
+                   DisplayShowTimes(showTimes),  // Hiển thị danh sách phim
                    exit_button->Render() | size(WIDTH, EQUAL, 25) | center,
                }) |
                border | center;

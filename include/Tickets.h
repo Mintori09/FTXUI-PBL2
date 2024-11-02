@@ -21,7 +21,7 @@ class Tickets {
    public:
     Vector<Ticket> getTickets() const { return tickets; }
 
-    bool addTicketForUser(const Account &account, const ShowTime &showTime);
+    bool addTicket(const Account &account, const ShowTime &showTime, int seatNumber);
     bool addTicketForAdmin(const Ticket &newTicket);
 
     void deleteTicket(int ticketId);  // Cập nhật kiểu ticketId
