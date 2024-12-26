@@ -1,8 +1,8 @@
 #ifndef _MY_LIB_H_
 #define _MY_LIB_H_
 
-#include <conio.h>
-#include <windows.h>
+// #include <conio.h>
+// #include <windows.h>
 
 #include <chrono>
 #include <cstdlib>

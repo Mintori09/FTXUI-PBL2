@@ -1,4 +1,4 @@
-#include "..\include\my_lib.h"
+#include "../include/my_lib.h"
 
 #include <cstdlib>
 #include <filesystem>
@@ -6,10 +6,6 @@
 #include <string>
 #include <thread>
 
-void gotoxy(short x, short y) {
-    COORD coord = {x, y};
-    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
-}
 
 std::string currentDate() {
     auto now = std::chrono::system_clock::now();
@@ -352,15 +348,15 @@ std::ostream &operator<<(std::ostream &os, const Time &time) {
        << std::setfill('0') << time.minute;
     return os;
 }
-bool isEscapePressed() {
-    if (_kbhit()) {          // Kiểm tra nếu có phím nào được nhấn
-        char ch = _getch();  // Lấy mã phím đã nhấn
-        if (ch == 27) {      // 27 là mã ASCII cho phím ESC
-            return true;
-        }
-    }
-    return false;
-}
+// bool isEscapePressed() {
+//     if (_kbhit()) {          // Kiểm tra nếu có phím nào được nhấn
+//         char ch = _getch();  // Lấy mã phím đã nhấn
+//         if (ch == 27) {      // 27 là mã ASCII cho phím ESC
+//             return true;
+//         }
+//     }
+//     return false;
+// }
 bool Date::operator>(const Date &other) const {
     if (year != other.year) {
         return year > other.year;  // So sánh năm
