@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/ftxui/examples
+# Install script for directory: C:/Users/Tvmth/OneDrive/FTXUI Project/ftxui/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

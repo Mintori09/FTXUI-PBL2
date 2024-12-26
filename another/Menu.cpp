@@ -907,8 +907,6 @@ void adminMenu(Account currentAccount, Accounts accounts, ShowTimes showTimes,
             return;
         }  // return
         std::cout << select << std::endl;
-        std::system("pause");
-        std::system("cls");
     }
 }
 void pause() { std::system("pause"); }
@@ -962,8 +960,6 @@ Account mainMenu(Accounts accounts) {
         if (select == 3) {
             exit(1);
         }
-        std::system("pause");
-        std::system("cls");
     }
 }
 

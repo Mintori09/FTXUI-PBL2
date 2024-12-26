@@ -138,6 +138,7 @@ bool isAllWordsInString(const std::string &source, const std::string &target) {
 }
 
 bool isValidDateFormat(const std::string &input) {
+    if(input.length() != 10) {return false;}
     return input.length() == 10 && input[2] == '-' && input[5] == '-';
 }
 
@@ -145,7 +146,7 @@ bool Date::setDate(const std::string &input) {
     if (!isValidDateFormat(input)) {
         return false;
     }
-
+    
     try {
         day = std::stoi(input.substr(0, 2));
         month = std::stoi(input.substr(3, 2));

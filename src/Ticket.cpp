@@ -90,18 +90,48 @@ void Ticket::readFromFile(std::stringstream &ss) {
 
     std::getline(ss, item, ';');
     ticketId = std::stoi(item);  // Chuyển đổi từ chuỗi sang int
+
     std::getline(ss, item, ';');
     showtimeId = std::stoi(item);
+
     std::getline(ss, item, ';');
     userId = std::stoi(item);
+
     std::getline(ss, item, ';');
     seatNumber = std::stoi(item);
+
     std::getline(ss, item, ';');
     ticketPrice = std::stoi(item);
+
     std::getline(ss, item, ';');
-    Date bookingDate(item);
-    std::getline(ss, paymentMethod, ';');
+    Date book(item);
+    this->bookingDate = book;
+
+    std::getline(ss, paymentMethod);
 }
+// void ShowTime::readFromFile(std::stringstream &ss) {
+//     std::string item;
+//     std::getline(ss, item, ';');
+//     showTimeId = std::stoi(item);
+
+//     std::getline(ss, item, ';');
+//     movieId = std::stoi(item);
+
+//     std::getline(ss, item, ';');
+//     hallId = std::stoi(item);
+
+//     std::getline(ss, item, ';');
+//     Date showDate(item);
+//     this->showDate = showDate;
+
+//     std::getline(ss, item, ';');
+//     Time startTime(item);
+//     this->startTime = startTime;
+
+//     std::getline(ss, item);
+//     Time endTime(item);
+//     this->endTime = endTime;
+// }
 
 bool Ticket::saveToFile(const std::string &filename) const {
     if (!ensureDirectoryExists(filename)) {

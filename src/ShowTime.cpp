@@ -147,7 +147,7 @@ bool ShowTime::saveToFile(const std::string &filename) const {
     }
 
     outFile << showTimeId << ';' << movieId << ';' << hallId << ';' << showDate
-            << ';' << startTime << ';' << endTime << ';' << '\n';
+            << ';' << startTime << ';' << endTime << '\n';
 
     outFile.close();
     return true;

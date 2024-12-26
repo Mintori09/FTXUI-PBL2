@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/ftxui
+# Install script for directory: C:/Users/Tvmth/OneDrive/FTXUI Project/ftxui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,26 +38,26 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/libftxui-screen.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/libftxui-screen.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/libftxui-dom.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/libftxui-dom.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/libftxui-component.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/libftxui-component.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/ftxui/include/ftxui")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/ftxui/include/ftxui")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui/ftxui-targets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui/ftxui-targets.cmake"
-         "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets.cmake")
+         "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui/ftxui-targets-*.cmake")
       if(_cmake_old_config_files)
@@ -70,27 +70,27 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui" TYPE FILE FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui" TYPE FILE FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets.cmake")
   if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^()$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui" TYPE FILE FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets-noconfig.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui" TYPE FILE FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets-noconfig.cmake")
   endif()
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/ftxui" TYPE FILE FILES
-    "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/cmake/ftxui-config.cmake"
-    "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/cmake/ftxui-config-version.cmake"
+    "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/cmake/ftxui-config.cmake"
+    "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/cmake/ftxui-config-version.cmake"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/ftxui.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/ftxui.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/examples/cmake_install.cmake")
-  include("C:/Users/PC/OneDrive/FTXUI Project/ftxui_project/build/ftxui_build/doc/cmake_install.cmake")
+  include("C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/examples/cmake_install.cmake")
+  include("C:/Users/Tvmth/OneDrive/FTXUI Project/build/ftxui_build/doc/cmake_install.cmake")
 
 endif()
 

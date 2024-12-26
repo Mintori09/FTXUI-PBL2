@@ -17,6 +17,7 @@ class Vector {
    public:
     Vector(std::initializer_list<T> init);
     Vector(size_t initial_capacity = 10);
+    Vector(size_t initial_capacity, size_t value);
     ~Vector();
     Vector(const Vector &other);             // Copy constructor
     Vector &operator=(const Vector &other);  // Operator=
@@ -56,6 +57,15 @@ void Vector<T>::resize(size_t new_capacity) {
     delete[] data;
     data = new_data;
     capacity_ = new_capacity;
+}
+template <typename T>
+Vector<T>::Vector(size_t initial_capacity, size_t value) {
+    data = new T[initial_capacity];
+    capacity_ = initial_capacity;
+    size_ = initial_capacity;
+    for (int i = 0; i < size_; ++i) {
+        data[i] = value;
+    }
 }
 
 template <typename T>

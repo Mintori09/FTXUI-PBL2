@@ -1,9 +1,4 @@
-#include <iostream>
-
 #include "Menu/menu.h"
-#include "include/Account.h"
-#include "include/Movies.h"
-#include "include/ShowTime.h"
 #include "include/Vector.h"
 
 void UserMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
@@ -45,17 +40,17 @@ void UserMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
         return vbox({
                    text("User Menu") | bold | center,
                    separator(),
-                   book_ticket_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   show_movies_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   show_showtimes_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   show_booked_tickets_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   update_account_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   logout_button->Render() | center | size(WIDTH, EQUAL, 50),
+                   book_ticket_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   show_movies_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   show_showtimes_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   show_booked_tickets_button->Render() |
+                       size(WIDTH, EQUAL, 50) | center,
+                   update_account_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   logout_button->Render() | size(WIDTH, EQUAL, 50) | center,
                }) |
                border | size(WIDTH, EQUAL, 100) | center;
     });
@@ -71,9 +66,7 @@ void AdminMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
         BookingTicket(movies.getMovies(), showtimes.getShowTimes(), account,
                       tickets);
     });
-    auto show_movies_button = Button("Movie", [&] {
-        displayMovie(movies.getMovies(), showtimes.getShowTimes());
-    });
+    auto show_movies_button = Button("Movie", [&] { addMovie(movies); });
     auto show_showtimes_button =
         Button("Add ShowTime", [&] { addShowTime(movies, showtimes); });
     auto show_booked_tickets_button = Button("Display Tickets", [&] {
@@ -81,9 +74,10 @@ void AdminMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
                    movies.getMovies(), showtimes.getShowTimes());
     });
     // auto update_account_button = Button("Update Account", [&] {});
-    // auto statistiic_button = Button("statistics", [&] {
-    //     // Statistic(tickets);
-    // });
+    auto statistic_button = Button("statistics", [&] {
+        Statistic(tickets.getTickets(), movies.getMovies(),
+                  showtimes.getShowTimes());
+    });
     auto logout_button = Button("Log out", [&] { screen.Exit(); });
 
     // Container chứa các nút
@@ -93,7 +87,7 @@ void AdminMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
         show_showtimes_button,
         show_booked_tickets_button,
         // update_account_button,
-        // statistiic_button,
+        statistic_button,
         logout_button,
     });
 
@@ -102,19 +96,18 @@ void AdminMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
         return vbox({
                    text("Admin Menu") | bold | center,
                    separator(),
-                   book_ticket_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   show_movies_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   show_showtimes_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
-                   show_booked_tickets_button->Render() | center |
-                       size(WIDTH, EQUAL, 50),
+                   book_ticket_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   show_movies_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   show_showtimes_button->Render() | size(WIDTH, EQUAL, 50) |
+                       center,
+                   show_booked_tickets_button->Render() |
+                       size(WIDTH, EQUAL, 50) | center,
                    //    update_account_button->Render() | center |
                    //    size(WIDTH, EQUAL, 50),
-                //    statistiic_button->Render() | center |
-                //        size(WIDTH, EQUAL, 50),
-                   logout_button->Render() | center | size(WIDTH, EQUAL, 50),
+                   statistic_button->Render() | size(WIDTH, EQUAL, 50) | center,
+                   logout_button->Render() | size(WIDTH, EQUAL, 50) | center,
                }) |
                border | size(WIDTH, EQUAL, 100) | center;
     });
@@ -128,12 +121,12 @@ int main() {
     Tickets tickets(TICKET_FILE);
     while (true) {
         Account account = showMenu(accounts);
-
         if (account.getRole() == 1) {
             AdminMenu(movies, showtimes, accounts, tickets, account);
         } else if (account.getRole() == 2) {
             UserMenu(movies, showtimes, accounts, tickets, account);
         }
     }
+
     return 0;
 }

@@ -1,4 +1,4 @@
-cd "C:\Users\PC\OneDrive\FTXUI Project\ftxui_project\"
+# cd "C:\Users\PC\OneDrive\FTXUI Project\ftxui_project\"
 mkdir build
 cd build
 cmake ..

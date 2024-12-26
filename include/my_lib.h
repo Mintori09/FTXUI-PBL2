@@ -45,7 +45,7 @@ bool isLeapYear(short year);
 short getDaysInMonth(short month, short year);
 
 bool isEmpty(std::ifstream &pFile);
-
+bool isValidDateFormat(const std::string &input);
 class Date {
    public:
     short day;
@@ -107,26 +107,29 @@ class Time {
         return false;  // Nếu gi�� l��n hơn
     }
     std::string toString() const {
-        return std::to_string(hour) + ":" + std::to_string(minute);
+        std::ostringstream os;
+        os << std::setw(2) << std::setfill('0') << hour << ":" << std::setw(2)
+           << std::setfill('0') << minute;
+        return os.str();
     }
-   Time add(int minutesToAdd) const {
-        Time newTime = *this; // Tạo một bản sao của đối tượng hiện tại
+    Time add(int minutesToAdd) const {
+        Time newTime = *this;  // Tạo một bản sao của đối tượng hiện tại
 
         // Cộng phút
         newTime.minute += minutesToAdd;
 
         // Xử lý trường hợp phút vượt quá 60
         if (newTime.minute >= 60) {
-            newTime.hour += newTime.minute / 60; // Cộng giờ
-            newTime.minute %= 60; // Cập nhật phút
+            newTime.hour += newTime.minute / 60;  // Cộng giờ
+            newTime.minute %= 60;                 // Cập nhật phút
         }
 
         // Xử lý trường hợp giờ vượt quá 24
         if (newTime.hour >= 24) {
-            newTime.hour %= 24; // Vòng lại giờ
+            newTime.hour %= 24;  // Vòng lại giờ
         }
 
-        return newTime; // Trả về đối tượng Time mới
+        return newTime;  // Trả về đối tượng Time mới
     }
 };
 bool ensureDirectoryExists(const std::string &filepath);
