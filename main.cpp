@@ -115,11 +115,12 @@ void AdminMenu(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
     screen.Loop(renderer);
 }
 int main() {
-    Movies movies(MOVIE_FILE);
-    ShowTimes showtimes(SHOWTIME_FILE);
-    Accounts accounts(ACCOUNT_FILE);
-    Tickets tickets(TICKET_FILE);
+
     while (true) {
+        Movies movies(MOVIE_FILE);
+        ShowTimes showtimes(SHOWTIME_FILE);
+        Accounts accounts(ACCOUNT_FILE);
+        Tickets tickets(TICKET_FILE);
         Account account = showMenu(accounts);
         if (account.getRole() == 1) {
             AdminMenu(movies, showtimes, accounts, tickets, account);

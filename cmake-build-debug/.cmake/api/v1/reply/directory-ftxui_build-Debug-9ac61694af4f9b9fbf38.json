@@ -1,0 +1,162 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install",
+			"include"
+		],
+		"files" : 
+		[
+			"ftxui/cmake/ftxui_install.cmake",
+			"ftxui/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 173,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 45,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 57,
+				"parent" : 2
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"ftxui_build/libftxui-screen.a"
+			],
+			"targetId" : "screen::@3a7f0267f639f856c653",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"ftxui_build/libftxui-dom.a"
+			],
+			"targetId" : "dom::@3a7f0267f639f856c653",
+			"targetIndex" : 1,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"ftxui_build/libftxui-component.a"
+			],
+			"targetId" : "component::@3a7f0267f639f856c653",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"ftxui/include/ftxui"
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/ftxui",
+			"exportName" : "ftxui-targets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "screen::@3a7f0267f639f856c653",
+					"index" : 3
+				},
+				{
+					"id" : "dom::@3a7f0267f639f856c653",
+					"index" : 1
+				},
+				{
+					"id" : "component::@3a7f0267f639f856c653",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"ftxui_build/CMakeFiles/Export/418a5211b54bdfa9fa029e8a3112c4d3/ftxui-targets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/ftxui",
+			"paths" : 
+			[
+				"cmake-build-debug/ftxui_build/cmake/ftxui-config.cmake",
+				"cmake-build-debug/ftxui_build/cmake/ftxui-config-version.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 7,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"cmake-build-debug/ftxui_build/ftxui.pc"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "ftxui_build",
+		"source" : "ftxui"
+	}
+}
