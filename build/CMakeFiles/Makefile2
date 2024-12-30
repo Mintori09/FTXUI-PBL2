@@ -160,12 +160,12 @@ CMakeFiles/ftxui_starter.dir/all: ftxui_build/CMakeFiles/dom.dir/all
 CMakeFiles/ftxui_starter.dir/all: ftxui_build/CMakeFiles/component.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui_starter.dir/build.make CMakeFiles/ftxui_starter.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui_starter.dir/build.make CMakeFiles/ftxui_starter.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=66,67,68,69,70,71,72,73,74,75,76 "Built target ftxui_starter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=66,67,68,69,70,71,72,73,74,75,76,77 "Built target ftxui_starter"
 .PHONY : CMakeFiles/ftxui_starter.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ftxui_starter.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles 84
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles 85
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ftxui_starter.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles 0
 .PHONY : CMakeFiles/ftxui_starter.dir/rule
@@ -177,7 +177,7 @@ ftxui_starter: CMakeFiles/ftxui_starter.dir/rule
 # codegen rule for target.
 CMakeFiles/ftxui_starter.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui_starter.dir/build.make CMakeFiles/ftxui_starter.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=66,67,68,69,70,71,72,73,74,75,76 "Finished codegen for target ftxui_starter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=66,67,68,69,70,71,72,73,74,75,76,77 "Finished codegen for target ftxui_starter"
 .PHONY : CMakeFiles/ftxui_starter.dir/codegen
 
 # clean rule for target.
@@ -192,7 +192,7 @@ CMakeFiles/ftxui_starter.dir/clean:
 ftxui_build/CMakeFiles/screen.dir/all:
 	$(MAKE) $(MAKESILENT) -f ftxui_build/CMakeFiles/screen.dir/build.make ftxui_build/CMakeFiles/screen.dir/depend
 	$(MAKE) $(MAKESILENT) -f ftxui_build/CMakeFiles/screen.dir/build.make ftxui_build/CMakeFiles/screen.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=77,78,79,80,81,82,83,84 "Built target screen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=78,79,80,81,82,83,84,85 "Built target screen"
 .PHONY : ftxui_build/CMakeFiles/screen.dir/all
 
 # Build rule for subdir invocation for target.
@@ -209,7 +209,7 @@ screen: ftxui_build/CMakeFiles/screen.dir/rule
 # codegen rule for target.
 ftxui_build/CMakeFiles/screen.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f ftxui_build/CMakeFiles/screen.dir/build.make ftxui_build/CMakeFiles/screen.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=77,78,79,80,81,82,83,84 "Finished codegen for target screen"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=78,79,80,81,82,83,84,85 "Finished codegen for target screen"
 .PHONY : ftxui_build/CMakeFiles/screen.dir/codegen
 
 # clean rule for target.

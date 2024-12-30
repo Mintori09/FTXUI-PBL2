@@ -1,6 +1,6 @@
-CMakeFiles/ftxui_starter.dir/main.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/main.cpp /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/AdminMenu.h \
+CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o: \
+ /home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp \
+ /usr/include/stdc-predef.h \
  /home/mintori/Documents/FTXUI-PBL2/Menu/menu.h \
  /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/component.hpp \
  /usr/include/c++/14.2.1/functional \
@@ -298,11 +298,4 @@ CMakeFiles/ftxui_starter.dir/main.cpp.o: \
  /home/mintori/Documents/FTXUI-PBL2/Menu/../include/ShowTimes.h \
  /home/mintori/Documents/FTXUI-PBL2/Menu/../include/ShowTime.h \
  /home/mintori/Documents/FTXUI-PBL2/Menu/../include/Tickets.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/../include/Ticket.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/AdminMenu.tpp \
- /home/mintori/Documents/FTXUI-PBL2/Menu/AdminMenu.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/UserMenu.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/UserMenu.tpp \
- /home/mintori/Documents/FTXUI-PBL2/Menu/UserMenu.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/mainmenu.h \
- /home/mintori/Documents/FTXUI-PBL2/Menu/../include/my_lib.h
+ /home/mintori/Documents/FTXUI-PBL2/Menu/../include/Ticket.h

@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp" "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o.d"
   "/home/mintori/Documents/FTXUI-PBL2/main.cpp" "CMakeFiles/ftxui_starter.dir/main.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/main.cpp.o.d"
   "/home/mintori/Documents/FTXUI-PBL2/src/Account.cpp" "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o.d"
   "/home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp" "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o.d"

@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ftxui_starter.dir/link.d"
+  "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o"
+  "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o.d"
   "CMakeFiles/ftxui_starter.dir/main.cpp.o"
   "CMakeFiles/ftxui_starter.dir/main.cpp.o.d"
   "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o"

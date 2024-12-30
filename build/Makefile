@@ -233,6 +233,30 @@ component/fast:
 	$(MAKE) $(MAKESILENT) -f ftxui_build/CMakeFiles/component.dir/build.make ftxui_build/CMakeFiles/component.dir/build
 .PHONY : component/fast
 
+Menu/menu.o: Menu/menu.cpp.o
+.PHONY : Menu/menu.o
+
+# target to build an object file
+Menu/menu.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui_starter.dir/build.make CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o
+.PHONY : Menu/menu.cpp.o
+
+Menu/menu.i: Menu/menu.cpp.i
+.PHONY : Menu/menu.i
+
+# target to preprocess a source file
+Menu/menu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui_starter.dir/build.make CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.i
+.PHONY : Menu/menu.cpp.i
+
+Menu/menu.s: Menu/menu.cpp.s
+.PHONY : Menu/menu.s
+
+# target to generate assembly for a file
+Menu/menu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ftxui_starter.dir/build.make CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.s
+.PHONY : Menu/menu.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -491,6 +515,9 @@ help:
 	@echo "... dom"
 	@echo "... ftxui_starter"
 	@echo "... screen"
+	@echo "... Menu/menu.o"
+	@echo "... Menu/menu.i"
+	@echo "... Menu/menu.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
