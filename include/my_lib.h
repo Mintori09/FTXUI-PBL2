@@ -20,11 +20,11 @@
 
 #include "Accounts.h"
 #include "Vector.h"
-#define MOVIE_FILE "data\\movies.txt"
-#define SHOWTIME_FILE "data\\showtimes.txt"
-#define TICKET_FILE "data\\tickets.txt"
-#define ACCOUNT_FILE "data\\accounts.txt"
-bool isValidTimeFormat(const std::string& time);
+#define MOVIE_FILE "data/movies.txt"
+#define SHOWTIME_FILE "data/showtimes.txt"
+#define TICKET_FILE "data/tickets.txt"
+#define ACCOUNT_FILE "data/accounts.txt"
+bool isValidTimeFormat(const std::string &time);
 std::string currentTime();
 int currentHour();
 int currentMinute();
