@@ -1,482 +1,482 @@
 [
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\main.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\main.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\main.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\main.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/main.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/main.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/main.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/main.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Account.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Account.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Account.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Account.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Account.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Account.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Accounts.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Accounts.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Accounts.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Accounts.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Movie.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Movie.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Movie.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Movie.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Movies.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Movies.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Movies.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Movies.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\ShowTime.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\ShowTime.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\ShowTime.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\ShowTime.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Showtimes.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Showtimes.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Showtimes.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Showtimes.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Ticket.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Ticket.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Ticket.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Ticket.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\Tickets.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Tickets.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Tickets.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\Tickets.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles\\ftxui_starter.dir\\src\\my_lib.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\my_lib.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\my_lib.cpp",
-  "output": "CMakeFiles\\ftxui_starter.dir\\src\\my_lib.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp",
+  "output": "CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\box.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\box.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\box.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\box.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\color.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\color.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\color.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\color.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\color_info.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\color_info.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\color_info.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\color_info.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\image.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\image.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\image.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\image.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\screen.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\screen.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\screen.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\screen.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\string.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\string.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\string.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\string.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\terminal.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\terminal.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\screen\\terminal.cpp",
-  "output": "ftxui_build\\CMakeFiles\\screen.dir\\src\\ftxui\\screen\\terminal.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp",
+  "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\automerge.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\automerge.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\automerge.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\automerge.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\blink.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\blink.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\blink.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\blink.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\bold.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\bold.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\bold.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\bold.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\hyperlink.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\hyperlink.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\hyperlink.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\hyperlink.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\border.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\border.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\border.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\border.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\box_helper.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\box_helper.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\box_helper.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\box_helper.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\canvas.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\canvas.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\canvas.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\canvas.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\clear_under.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\clear_under.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\clear_under.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\clear_under.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\color.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\color.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\color.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\color.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\composite_decorator.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\composite_decorator.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\composite_decorator.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\composite_decorator.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\dbox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\dbox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\dbox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\dbox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\dim.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\dim.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\dim.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\dim.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flex.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flex.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flex.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flex.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flexbox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flexbox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox_config.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flexbox_config.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flexbox_config.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox_config.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox_helper.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flexbox_helper.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\flexbox_helper.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\flexbox_helper.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\focus.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\focus.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\focus.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\focus.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\frame.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\frame.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\frame.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\frame.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\gauge.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\gauge.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\gauge.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\gauge.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\graph.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\graph.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\graph.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\graph.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\gridbox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\gridbox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\gridbox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\gridbox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\hbox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\hbox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\hbox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\hbox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\inverted.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\inverted.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\inverted.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\inverted.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\linear_gradient.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\linear_gradient.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\linear_gradient.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\linear_gradient.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\node.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\node.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\node.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\node.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\node_decorator.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\node_decorator.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\node_decorator.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\node_decorator.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\paragraph.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\paragraph.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\paragraph.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\paragraph.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\reflect.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\reflect.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\reflect.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\reflect.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\scroll_indicator.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\scroll_indicator.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\scroll_indicator.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\scroll_indicator.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\separator.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\separator.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\separator.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\separator.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\size.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\size.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\size.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\size.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\spinner.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\spinner.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\spinner.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\spinner.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\strikethrough.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\strikethrough.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\strikethrough.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\strikethrough.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\table.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\table.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\table.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\table.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\text.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\text.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\text.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\text.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\underlined.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\underlined.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\underlined.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\underlined.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\underlined_double.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\underlined_double.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\underlined_double.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\underlined_double.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\util.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\util.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\util.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\util.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\vbox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\vbox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\dom\\vbox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\dom.dir\\src\\ftxui\\dom\\vbox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp",
+  "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\animation.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\animation.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\animation.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\animation.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\button.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\button.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\button.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\button.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\catch_event.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\catch_event.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\catch_event.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\catch_event.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\checkbox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\checkbox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\checkbox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\checkbox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\collapsible.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\collapsible.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\collapsible.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\collapsible.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\component.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\component.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\component.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\component.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\component_options.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\component_options.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\component_options.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\component_options.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\container.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\container.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\container.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\container.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\dropdown.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\dropdown.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\dropdown.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\dropdown.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\event.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\event.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\event.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\event.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\hoverable.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\hoverable.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\hoverable.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\hoverable.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\input.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\input.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\input.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\input.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\loop.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\loop.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\loop.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\loop.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\maybe.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\maybe.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\maybe.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\maybe.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\menu.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\menu.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\menu.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\menu.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\modal.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\modal.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\modal.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\modal.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\radiobox.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\radiobox.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\radiobox.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\radiobox.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\renderer.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\renderer.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\renderer.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\renderer.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\resizable_split.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\resizable_split.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\resizable_split.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\resizable_split.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\screen_interactive.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\screen_interactive.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\screen_interactive.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\screen_interactive.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\slider.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\slider.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\slider.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\slider.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\terminal_input_parser.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\terminal_input_parser.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\terminal_input_parser.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\terminal_input_parser.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\util.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\util.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\util.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\util.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o"
 },
 {
-  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/build",
-  "command": "C:\\mingw64\\bin\\c++.exe -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -std=gnu++23 -o ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\window.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\window.cpp",
-  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\ftxui\\src\\ftxui\\component\\window.cpp",
-  "output": "ftxui_build\\CMakeFiles\\component.dir\\src\\ftxui\\component\\window.cpp.obj"
+  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/window.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp",
+  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp",
+  "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o"
 }
 ]
