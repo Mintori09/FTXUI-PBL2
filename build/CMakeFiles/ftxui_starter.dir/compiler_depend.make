@@ -13,6 +13,8 @@ CMakeFiles/ftxui_starter.dir/main.cpp.o: /home/mintori/Documents/FTXUI-PBL2/main
   /home/mintori/Documents/FTXUI-PBL2/include/Tickets.h \
   /home/mintori/Documents/FTXUI-PBL2/include/Vector.h \
   /home/mintori/Documents/FTXUI-PBL2/include/my_lib.h \
+  /home/mintori/Documents/FTXUI-PBL2/Menu/AdminMenu.h \
+  /home/mintori/Documents/FTXUI-PBL2/Menu/UserMenu.h \
   /home/mintori/Documents/FTXUI-PBL2/Menu/menu.h \
   /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
   /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/captured_mouse.hpp \
@@ -3018,8 +3020,6 @@ ftxui_starter: /usr/lib/libc.so \
 
 /usr/include/sys/cdefs.h:
 
-/usr/include/stdlib.h:
-
 /usr/include/semaphore.h:
 
 /usr/include/wctype.h:
@@ -3140,10 +3140,6 @@ ftxui_starter: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/cerrno:
 
-/usr/include/c++/14.2.1/bits/memoryfwd.h:
-
-/usr/include/c++/14.2.1/bits/requires_hosted.h:
-
 /usr/include/c++/14.2.1/type_traits:
 
 /usr/include/c++/14.2.1/array:
@@ -3215,6 +3211,12 @@ ftxui_starter: /usr/lib/libc.so \
 /usr/include/bits/types/__sigset_t.h:
 
 /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp:
+
+/usr/include/c++/14.2.1/cctype:
+
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/receiver.hpp:
+
+/usr/include/bits/types/FILE.h:
 
 /usr/include/bits/time64.h:
 
@@ -3292,13 +3294,19 @@ ftxui_starter: /usr/lib/libc.so \
 
 /usr/include/bits/local_lim.h:
 
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp:
+/home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp:
 
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp:
+/usr/include/c++/14.2.1/ext/aligned_buffer.h:
 
-/usr/include/c++/14.2.1/format:
+/usr/include/bits/libc-header-start.h:
 
-/usr/include/c++/14.2.1/bits/shared_ptr_atomic.h:
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp:
+
+/usr/include/errno.h:
+
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+
+/usr/include/bits/getopt_posix.h:
 
 /usr/include/stdc-predef.h:
 
@@ -3315,14 +3323,6 @@ ftxui_starter: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/gthr.h:
 
 /usr/include/bits/stdint-least.h:
-
-/home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp:
-
-/usr/include/c++/14.2.1/ext/aligned_buffer.h:
-
-/usr/include/bits/libc-header-start.h:
-
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp:
 
 /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/component_options.hpp:
 
@@ -3370,13 +3370,13 @@ ftxui_starter: /usr/lib/libc.so \
 
 /home/mintori/Documents/FTXUI-PBL2/include/Ticket.h:
 
-/usr/include/bits/types/struct_FILE.h:
-
-/usr/include/bits/environments.h:
-
 /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h:
 
 /usr/include/bits/types/__fpos64_t.h:
+
+/usr/include/stdlib.h:
+
+/home/mintori/Documents/FTXUI-PBL2/Menu/AdminMenu.h:
 
 /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp:
 
@@ -3390,11 +3390,19 @@ ftxui_starter: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/bits/chrono_io.h:
 
-/usr/include/bits/select.h:
+/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
 
-/usr/include/c++/14.2.1/bits/algorithmfwd.h:
+/usr/include/c++/14.2.1/bits/uses_allocator.h:
 
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp:
+/usr/include/bits/unistd_ext.h:
+
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp:
+
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp:
+
+/usr/include/c++/14.2.1/format:
+
+/usr/include/c++/14.2.1/bits/shared_ptr_atomic.h:
 
 /home/mintori/Documents/FTXUI-PBL2/include/Movies.h:
 
@@ -3436,18 +3444,6 @@ ftxui_starter: /usr/lib/libc.so \
 
 /usr/include/c++/14.2.1/bits/ranges_algobase.h:
 
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp:
-
-/usr/include/c++/14.2.1/bits/ios_base.h:
-
-/usr/include/c++/14.2.1/thread:
-
-/usr/include/bits/types/struct_timeval.h:
-
-/usr/include/bits/types/cookie_io_functions_t.h:
-
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp:
-
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stddef.h:
 
 /usr/include/c++/14.2.1/atomic:
@@ -3463,6 +3459,28 @@ ftxui_starter: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/bits/stl_queue.h:
 
 /usr/include/asm-generic/errno-base.h:
+
+/usr/include/c++/14.2.1/bitset:
+
+/usr/include/c++/14.2.1/bits/fstream.tcc:
+
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp:
+
+/usr/include/bits/types/struct_FILE.h:
+
+/usr/include/bits/environments.h:
+
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp:
+
+/usr/include/c++/14.2.1/bits/ios_base.h:
+
+/usr/include/c++/14.2.1/thread:
+
+/usr/include/bits/types/struct_timeval.h:
+
+/usr/include/bits/types/cookie_io_functions_t.h:
+
+/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp:
 
 /usr/include/bits/syscall.h:
 
@@ -3514,17 +3532,13 @@ ftxui_starter: /usr/lib/libc.so \
 
 /usr/include/bits/getopt_core.h:
 
-/usr/include/errno.h:
+/usr/include/c++/14.2.1/bits/memoryfwd.h:
 
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++locale.h:
+/usr/include/c++/14.2.1/bits/requires_hosted.h:
 
-/usr/include/bits/getopt_posix.h:
+/usr/include/bits/select.h:
 
-/usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/ctype_inline.h:
-
-/usr/include/bits/unistd_ext.h:
-
-/usr/include/c++/14.2.1/bits/uses_allocator.h:
+/usr/include/c++/14.2.1/bits/algorithmfwd.h:
 
 /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp:
 
@@ -3641,6 +3655,8 @@ ftxui_starter: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/bits/memory_resource.h:
 
 /usr/include/c++/14.2.1/bits/move.h:
+
+/home/mintori/Documents/FTXUI-PBL2/Menu/UserMenu.h:
 
 /usr/include/c++/14.2.1/bits/nested_exception.h:
 
@@ -3765,13 +3781,3 @@ ftxui_starter: /usr/lib/libc.so \
 /usr/include/c++/14.2.1/bit:
 
 /usr/include/c++/14.2.1/bits/vector.tcc:
-
-/usr/include/c++/14.2.1/bits/fstream.tcc:
-
-/usr/include/c++/14.2.1/bitset:
-
-/home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/receiver.hpp:
-
-/usr/include/bits/types/FILE.h:
-
-/usr/include/c++/14.2.1/cctype:
