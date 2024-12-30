@@ -15,7 +15,7 @@ add_subdirectory("ftxui" "ftxui_build")
 add_executable(ftxui_starter main.cpp)
 
 # Tìm tất cả các tệp nguồn trong thư mục src và thêm vào executable
-file(GLOB_RECURSE SOURCES "src/*.cpp")
+file(GLOB_RECURSE SOURCES "src/*.cpp" "Menu/*.cpp")
 target_sources(ftxui_starter PRIVATE ${SOURCES})
 
 # Liên kết các thư viện của FTXUI
