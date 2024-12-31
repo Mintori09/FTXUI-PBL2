@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.11)
+ cmake_minimum_required(VERSION 3.11)
 project(ftxui_starter LANGUAGES CXX VERSION 1.0.0)
 
 # Xuất tệp lệnh biên dịch
@@ -12,7 +12,8 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_subdirectory("ftxui" "ftxui_build")
 
 # Tạo executable từ tệp nguồn
-add_executable(ftxui_starter main.cpp)
+add_executable(ftxui_starter main.cpp
+        include/Map.h)
 
 # Tìm tất cả các tệp nguồn trong thư mục src và thêm vào executable
 file(GLOB_RECURSE SOURCES "src/*.cpp" "Menu/*.cpp")

@@ -95,7 +95,24 @@ void Accounts::addAccount(Account &account) {
 //     std::cout << "Account created successfully." << std::endl;
 //     return true;
 // }
+void Accounts::forgotPassword(Account &account, std::string &message) {
+  for (auto &acc : accounts) {
+    if (acc.getUserName() == account.getUserName() &&
+        acc.getPhoneNumber() == account.getPhoneNumber()) {
+      if (account.getRole() == 2) {
+        acc.setPassWord(account.getPassWord());
+        saveToFile(ACCOUNT_FILE);
+        message = "Password changed successfully.";
+        return;
+      } else if (account.getRole() == 1) {
+        message = "Your don't have perrmisson to change password";
+        return;
+      }
+    }
+  }
+  message = "Account does not exist.";
 
+}
 bool Accounts::authenticate(const std::string &username,
                             const std::string &password, Account &acc) {
   for (const auto &account : accounts) {
