@@ -1,488 +1,488 @@
 [
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/main.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/main.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/main.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/main.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/main.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/main.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/main.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Account.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Account.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build",
-  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build",
+  "command": "/usr/bin/c++  -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp",
   "output": "CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp",
   "output": "ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp",
   "output": "ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o"
 },
 {
-  "directory": "/home/mintori/Documents/FTXUI-PBL2/build/ftxui_build",
-  "command": "/usr/bin/c++  -I/home/mintori/Documents/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/window.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp",
-  "file": "/home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp",
+  "directory": "/home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build",
+  "command": "/usr/bin/c++  -I/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include -std=gnu++23 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/window.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp",
+  "file": "/home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp",
   "output": "ftxui_build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o"
 }
 ]

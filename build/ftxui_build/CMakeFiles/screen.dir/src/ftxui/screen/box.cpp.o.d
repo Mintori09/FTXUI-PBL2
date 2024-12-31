@@ -1,7 +1,7 @@
 ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/box.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
  /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algobase.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \

@@ -8,17 +8,17 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp" "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/main.cpp" "CMakeFiles/ftxui_starter.dir/main.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/main.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Account.cpp" "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp" "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp" "CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp" "CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp" "CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp" "CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp" "CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp" "CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o.d"
-  "/home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp" "CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp" "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/main.cpp" "CMakeFiles/ftxui_starter.dir/main.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/main.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp" "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Account.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp" "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp" "CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp" "CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp" "CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp" "CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp" "CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp" "CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o.d"
+  "/home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp" "CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o" "gcc" "CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o.d"
   "" "ftxui_starter" "gcc" "CMakeFiles/ftxui_starter.dir/link.d"
   )
 

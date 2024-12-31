@@ -1,7 +1,7 @@
 ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
  /usr/include/c++/14.2.1/cstdint \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -132,5 +132,5 @@ ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o: \
  /usr/include/c++/14.2.1/tr1/poly_hermite.tcc \
  /usr/include/c++/14.2.1/tr1/poly_laguerre.tcc \
  /usr/include/c++/14.2.1/tr1/riemann_zeta.tcc \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color_info.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color_info.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp

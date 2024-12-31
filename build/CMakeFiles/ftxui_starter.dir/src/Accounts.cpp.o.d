@@ -1,7 +1,7 @@
 CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Accounts.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Accounts.h \
  /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -110,9 +110,9 @@ CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: \
  /usr/include/c++/14.2.1/bits/uses_allocator.h \
  /usr/include/c++/14.2.1/bits/uses_allocator_args.h \
  /usr/include/c++/14.2.1/tuple /usr/include/c++/14.2.1/bits/ranges_util.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Account.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Entity.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Vector.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Account.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Entity.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Vector.h \
  /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algo.h \
  /usr/include/c++/14.2.1/bits/algorithmfwd.h \
@@ -215,9 +215,9 @@ CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: \
  /usr/include/c++/14.2.1/bits/regex.tcc \
  /usr/include/c++/14.2.1/bits/regex_executor.h \
  /usr/include/c++/14.2.1/bits/regex_executor.tcc \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/my_lib.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/my_lib.h \
  /usr/include/c++/14.2.1/chrono /usr/include/c++/14.2.1/bits/chrono.h \
  /usr/include/c++/14.2.1/ratio /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/chrono_io.h /usr/include/c++/14.2.1/iomanip \
  /usr/include/c++/14.2.1/bits/quoted_string.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Accounts.h
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Accounts.h

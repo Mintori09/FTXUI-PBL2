@@ -1,5 +1,5 @@
 ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/cstddef \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -174,15 +174,15 @@ ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o: \
  /usr/include/c++/14.2.1/bits/erase_if.h /usr/include/c++/14.2.1/sstream \
  /usr/include/c++/14.2.1/bits/sstream.tcc /usr/include/c++/14.2.1/utility \
  /usr/include/c++/14.2.1/bits/stl_relops.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
  /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
  /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mintori/Documents/FTXUI-PBL2
+CMAKE_SOURCE_DIR = /home/mintori/Documents/code/FTXUI-PBL2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mintori/Documents/FTXUI-PBL2/build
+CMAKE_BINARY_DIR = /home/mintori/Documents/code/FTXUI-PBL2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ftxui_starter.dir/depend.make
@@ -73,158 +73,158 @@ CMakeFiles/ftxui_starter.dir/codegen:
 .PHONY : CMakeFiles/ftxui_starter.dir/codegen
 
 CMakeFiles/ftxui_starter.dir/main.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/main.cpp.o: /home/mintori/Documents/FTXUI-PBL2/main.cpp
+CMakeFiles/ftxui_starter.dir/main.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/main.cpp
 CMakeFiles/ftxui_starter.dir/main.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ftxui_starter.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/main.cpp.o -MF CMakeFiles/ftxui_starter.dir/main.cpp.o.d -o CMakeFiles/ftxui_starter.dir/main.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ftxui_starter.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/main.cpp.o -MF CMakeFiles/ftxui_starter.dir/main.cpp.o.d -o CMakeFiles/ftxui_starter.dir/main.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/main.cpp
 
 CMakeFiles/ftxui_starter.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/main.cpp > CMakeFiles/ftxui_starter.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/main.cpp > CMakeFiles/ftxui_starter.dir/main.cpp.i
 
 CMakeFiles/ftxui_starter.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/main.cpp -o CMakeFiles/ftxui_starter.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/main.cpp -o CMakeFiles/ftxui_starter.dir/main.cpp.s
 
 CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o: /home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp
+CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp
 CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o -MF CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o.d -o CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o -MF CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o.d -o CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp
 
 CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp > CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp > CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.i
 
 CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/Menu/menu.cpp -o CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/Menu/menu.cpp -o CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Account.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Account.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Account.cpp
+CMakeFiles/ftxui_starter.dir/src/Account.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp
 CMakeFiles/ftxui_starter.dir/src/Account.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Account.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Account.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Account.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Account.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Account.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Account.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Account.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Account.cpp > CMakeFiles/ftxui_starter.dir/src/Account.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp > CMakeFiles/ftxui_starter.dir/src/Account.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Account.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Account.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Account.cpp -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Account.cpp -o CMakeFiles/ftxui_starter.dir/src/Account.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp
+CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp
 CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp > CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp > CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Accounts.cpp -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Accounts.cpp -o CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp
+CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp
 CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Movie.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Movie.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp > CMakeFiles/ftxui_starter.dir/src/Movie.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp > CMakeFiles/ftxui_starter.dir/src/Movie.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Movie.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Movie.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Movie.cpp -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Movie.cpp -o CMakeFiles/ftxui_starter.dir/src/Movie.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp
+CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp
 CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Movies.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Movies.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp > CMakeFiles/ftxui_starter.dir/src/Movies.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp > CMakeFiles/ftxui_starter.dir/src/Movies.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Movies.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Movies.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Movies.cpp -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Movies.cpp -o CMakeFiles/ftxui_starter.dir/src/Movies.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp
+CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp
 CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp
 
 CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp > CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp > CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/ShowTime.cpp -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/ShowTime.cpp -o CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp
+CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp
 CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp > CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp > CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Showtimes.cpp -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Showtimes.cpp -o CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp
+CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp
 CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp > CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp > CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp -o CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp
+CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp
 CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp
 
 CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp > CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp > CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/Tickets.cpp -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/Tickets.cpp -o CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.s
 
 CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o: CMakeFiles/ftxui_starter.dir/flags.make
-CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o: /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp
+CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp
 CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o: CMakeFiles/ftxui_starter.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -MF CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o.d -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp
 
 CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp > CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp > CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.i
 
 CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/src/my_lib.cpp -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/src/my_lib.cpp -o CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.s
 
 # Object files for target ftxui_starter
 ftxui_starter_OBJECTS = \
@@ -262,7 +262,7 @@ ftxui_starter: ftxui_build/libftxui-component.a
 ftxui_starter: ftxui_build/libftxui-dom.a
 ftxui_starter: ftxui_build/libftxui-screen.a
 ftxui_starter: CMakeFiles/ftxui_starter.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable ftxui_starter"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable ftxui_starter"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ftxui_starter.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -274,6 +274,6 @@ CMakeFiles/ftxui_starter.dir/clean:
 .PHONY : CMakeFiles/ftxui_starter.dir/clean
 
 CMakeFiles/ftxui_starter.dir/depend:
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mintori/Documents/FTXUI-PBL2 /home/mintori/Documents/FTXUI-PBL2 /home/mintori/Documents/FTXUI-PBL2/build /home/mintori/Documents/FTXUI-PBL2/build /home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles/ftxui_starter.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mintori/Documents/code/FTXUI-PBL2 /home/mintori/Documents/code/FTXUI-PBL2 /home/mintori/Documents/code/FTXUI-PBL2/build /home/mintori/Documents/code/FTXUI-PBL2/build /home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles/ftxui_starter.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ftxui_starter.dir/depend
 

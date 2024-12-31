@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mintori/Documents/FTXUI-PBL2
+CMAKE_SOURCE_DIR = /home/mintori/Documents/code/FTXUI-PBL2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mintori/Documents/FTXUI-PBL2/build
+CMAKE_BINARY_DIR = /home/mintori/Documents/code/FTXUI-PBL2/build
 
 # Include any dependencies generated for this target.
 include ftxui_build/CMakeFiles/dom.dir/depend.make
@@ -73,550 +73,550 @@ ftxui_build/CMakeFiles/dom.dir/codegen:
 .PHONY : ftxui_build/CMakeFiles/dom.dir/codegen
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp > CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp > CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/automerge.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp > CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp > CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp > CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp > CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp > CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp > CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp > CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp > CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp > CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp > CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp > CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp > CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp > CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp > CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp > CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp > CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp > CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp > CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp > CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp > CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp > CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp > CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp > CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp > CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp > CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp > CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp > CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp > CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp > CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp > CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp > CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp > CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp > CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp > CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp > CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp > CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp > CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp > CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp > CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp > CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp > CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp > CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp > CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp > CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp > CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp > CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp > CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp > CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp > CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp > CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp > CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp > CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp > CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp > CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.s
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/flags.make
-ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp
+ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: ftxui_build/CMakeFiles/dom.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -MF CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o.d -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.i"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.i
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp > CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.i
 
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.s"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.s
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.s
 
 # Object files for target dom
 dom_OBJECTS = \
@@ -704,19 +704,19 @@ ftxui_build/libftxui-dom.a: ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cp
 ftxui_build/libftxui-dom.a: ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o
 ftxui_build/libftxui-dom.a: ftxui_build/CMakeFiles/dom.dir/build.make
 ftxui_build/libftxui-dom.a: ftxui_build/CMakeFiles/dom.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX static library libftxui-dom.a"
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && $(CMAKE_COMMAND) -P CMakeFiles/dom.dir/cmake_clean_target.cmake
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dom.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX static library libftxui-dom.a"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && $(CMAKE_COMMAND) -P CMakeFiles/dom.dir/cmake_clean_target.cmake
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/dom.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 ftxui_build/CMakeFiles/dom.dir/build: ftxui_build/libftxui-dom.a
 .PHONY : ftxui_build/CMakeFiles/dom.dir/build
 
 ftxui_build/CMakeFiles/dom.dir/clean:
-	cd /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build && $(CMAKE_COMMAND) -P CMakeFiles/dom.dir/cmake_clean.cmake
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build && $(CMAKE_COMMAND) -P CMakeFiles/dom.dir/cmake_clean.cmake
 .PHONY : ftxui_build/CMakeFiles/dom.dir/clean
 
 ftxui_build/CMakeFiles/dom.dir/depend:
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mintori/Documents/FTXUI-PBL2 /home/mintori/Documents/FTXUI-PBL2/ftxui /home/mintori/Documents/FTXUI-PBL2/build /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build/CMakeFiles/dom.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mintori/Documents/code/FTXUI-PBL2 /home/mintori/Documents/code/FTXUI-PBL2/ftxui /home/mintori/Documents/code/FTXUI-PBL2/build /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build/CMakeFiles/dom.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : ftxui_build/CMakeFiles/dom.dir/depend
 

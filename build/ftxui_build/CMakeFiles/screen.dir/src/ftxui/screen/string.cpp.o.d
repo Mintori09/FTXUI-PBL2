@@ -1,7 +1,7 @@
 ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
  /usr/include/c++/14.2.1/string \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -119,5 +119,5 @@ ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o: \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
  /usr/include/stdint.h /usr/include/bits/stdint-uintn.h \
  /usr/include/bits/stdint-least.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/deprecated.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string_internal.hpp
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/deprecated.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/string_internal.hpp

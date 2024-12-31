@@ -1,7 +1,7 @@
 CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/src/Ticket.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/Ticket.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Ticket.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Ticket.h \
  /usr/include/c++/14.2.1/sstream \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -170,7 +170,7 @@ CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: \
  /usr/include/c++/14.2.1/bits/ostream.tcc \
  /usr/include/c++/14.2.1/bits/istream.tcc \
  /usr/include/c++/14.2.1/bits/sstream.tcc \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/my_lib.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/my_lib.h \
  /usr/include/c++/14.2.1/chrono /usr/include/c++/14.2.1/bits/chrono.h \
  /usr/include/c++/14.2.1/ratio /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
@@ -211,10 +211,10 @@ CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.o: \
  /usr/include/c++/14.2.1/bits/regex.tcc \
  /usr/include/c++/14.2.1/bits/regex_executor.h \
  /usr/include/c++/14.2.1/bits/regex_executor.tcc \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Accounts.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Account.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Entity.h \
- /home/mintori/Documents/FTXUI-PBL2/src/../include/Vector.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Accounts.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Account.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Entity.h \
+ /home/mintori/Documents/code/FTXUI-PBL2/src/../include/Vector.h \
  /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/ranges_algo.h \
  /usr/include/c++/14.2.1/pstl/glue_algorithm_defs.h \

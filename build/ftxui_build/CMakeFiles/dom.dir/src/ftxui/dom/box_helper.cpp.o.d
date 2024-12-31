@@ -1,7 +1,7 @@
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.hpp \
  /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \

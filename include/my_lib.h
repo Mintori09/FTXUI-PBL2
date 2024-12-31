@@ -1,8 +1,10 @@
 #ifndef _MY_LIB_H_
 #define _MY_LIB_H_
 
+#ifdef __win32
 #include <conio.h>
 #include <windows.h>
+#endif
 
 #include <chrono>
 #include <cstdlib>
@@ -24,6 +26,7 @@
 #define SHOWTIME_FILE "data/showtimes.txt"
 #define TICKET_FILE "data/tickets.txt"
 #define ACCOUNT_FILE "data/accounts.txt"
+void clearScreen();
 bool isValidTimeFormat(const std::string &time);
 std::string currentTime();
 int currentHour();
@@ -47,6 +50,8 @@ short getDaysInMonth(short month, short year);
 
 bool isEmpty(std::ifstream &pFile);
 bool isValidDateFormat(const std::string &input);
+bool ensureDirectoryExists(const std::string &filepath);
+
 class Date {
 public:
   short day;
@@ -132,5 +137,4 @@ public:
     return newTime; // Trả về đối tượng Time mới
   }
 };
-bool ensureDirectoryExists(const std::string &filepath);
 #endif // _MY_LIB_H_

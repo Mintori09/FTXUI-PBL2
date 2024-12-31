@@ -1,5 +1,5 @@
 ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algobase.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -190,7 +190,7 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: \
  /usr/include/c++/14.2.1/bits/istream.tcc \
  /usr/include/c++/14.2.1/bits/sstream.tcc /usr/include/c++/14.2.1/utility \
  /usr/include/c++/14.2.1/bits/stl_relops.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/component.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/component.hpp \
  /usr/include/c++/14.2.1/memory \
  /usr/include/c++/14.2.1/bits/stl_raw_storage_iter.h \
  /usr/include/c++/14.2.1/bits/align.h \
@@ -221,36 +221,36 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: \
  /usr/include/c++/14.2.1/bits/ranges_uninitialized.h \
  /usr/include/c++/14.2.1/bits/out_ptr.h \
  /usr/include/c++/14.2.1/pstl/glue_memory_defs.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/component_base.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/captured_mouse.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/elements.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/canvas.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/direction.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/util/ref.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/take_any_args.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/deprecated.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/component_options.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/component_base.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/captured_mouse.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/elements.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/canvas.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/direction.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/util/ref.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/take_any_args.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/deprecated.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/component_options.hpp \
  /usr/include/c++/14.2.1/chrono /usr/include/c++/14.2.1/bits/chrono.h \
  /usr/include/c++/14.2.1/ratio /usr/include/c++/14.2.1/bits/chrono_io.h \
  /usr/include/c++/14.2.1/iomanip \
  /usr/include/c++/14.2.1/bits/quoted_string.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/event.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/mouse.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/screen_interactive.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/event.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/mouse.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/screen_interactive.hpp \
  /usr/include/c++/14.2.1/atomic \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/receiver.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/receiver.hpp \
  /usr/include/c++/14.2.1/condition_variable \
  /usr/include/c++/14.2.1/bits/unique_lock.h \
  /usr/include/c++/14.2.1/stop_token \
@@ -264,6 +264,6 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o: \
  /usr/include/c++/14.2.1/deque /usr/include/c++/14.2.1/bits/stl_deque.h \
  /usr/include/c++/14.2.1/bits/deque.tcc \
  /usr/include/c++/14.2.1/bits/stl_queue.h /usr/include/c++/14.2.1/thread \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/task.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/string_internal.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/util.hpp
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/task.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/string_internal.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/util.hpp

@@ -1,7 +1,7 @@
 ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/screen_interactive.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/screen_interactive.hpp \
  /usr/include/c++/14.2.1/atomic /usr/include/c++/14.2.1/bits/version.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -68,7 +68,7 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.
  /usr/include/c++/14.2.1/bits/functexcept.h \
  /usr/include/c++/14.2.1/bits/exception_defines.h \
  /usr/include/c++/14.2.1/bits/std_mutex.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/receiver.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/receiver.hpp \
  /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algobase.h \
  /usr/include/c++/14.2.1/bits/stl_pair.h \
@@ -231,22 +231,22 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.
  /usr/include/c++/14.2.1/bits/move_only_function.h \
  /usr/include/c++/14.2.1/bits/mofunc_impl.h \
  /usr/include/c++/14.2.1/thread \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
  /usr/include/c++/14.2.1/chrono /usr/include/c++/14.2.1/sstream \
  /usr/include/c++/14.2.1/istream /usr/include/c++/14.2.1/bits/istream.tcc \
  /usr/include/c++/14.2.1/bits/sstream.tcc \
  /usr/include/c++/14.2.1/bits/chrono_io.h /usr/include/c++/14.2.1/iomanip \
  /usr/include/c++/14.2.1/bits/quoted_string.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/captured_mouse.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/event.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/mouse.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/task.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/captured_mouse.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/event.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/mouse.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/task.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
  /usr/include/c++/14.2.1/csignal /usr/include/signal.h \
  /usr/include/bits/signum-generic.h /usr/include/bits/signum-arch.h \
  /usr/include/bits/types/sig_atomic_t.h \
@@ -261,20 +261,20 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.
  /usr/include/bits/types/struct_sigstack.h /usr/include/bits/sigthread.h \
  /usr/include/bits/signal_ext.h /usr/include/c++/14.2.1/iostream \
  /usr/include/c++/14.2.1/stack /usr/include/c++/14.2.1/bits/stl_stack.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/component_base.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/elements.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/canvas.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/direction.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/util/ref.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/take_any_args.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/deprecated.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/loop.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/component_base.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/elements.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/canvas.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/direction.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/util/ref.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/take_any_args.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/deprecated.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/loop.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.hpp \
  /usr/include/termios.h /usr/include/bits/termios.h \
  /usr/include/bits/termios-struct.h /usr/include/bits/termios-c_cc.h \
  /usr/include/bits/termios-c_iflag.h /usr/include/bits/termios-c_oflag.h \

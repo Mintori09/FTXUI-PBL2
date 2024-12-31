@@ -1,5 +1,5 @@
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/algorithm \
  /usr/include/c++/14.2.1/bits/stl_algobase.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -207,8 +207,8 @@ ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: \
  /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/elements.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/elements.hpp \
  /usr/include/c++/14.2.1/functional \
  /usr/include/c++/14.2.1/bits/std_function.h \
  /usr/include/c++/14.2.1/unordered_map \
@@ -219,19 +219,19 @@ ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o: \
  /usr/include/c++/14.2.1/bits/erase_if.h \
  /usr/include/c++/14.2.1/bits/move_only_function.h \
  /usr/include/c++/14.2.1/bits/mofunc_impl.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/canvas.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/direction.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/util/ref.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/take_any_args.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/deprecated.hpp
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/canvas.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/direction.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/flexbox_config.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/linear_gradient.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/util/ref.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/take_any_args.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/deprecated.hpp

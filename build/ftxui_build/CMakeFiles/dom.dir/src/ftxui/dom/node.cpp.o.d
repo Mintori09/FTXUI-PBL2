@@ -1,7 +1,7 @@
 ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp \
  /usr/include/stdc-predef.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/box.hpp \
  /usr/include/c++/14.2.1/utility \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -22,7 +22,7 @@ ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
  /usr/include/c++/14.2.1/ext/numeric_traits.h \
  /usr/include/c++/14.2.1/bits/cpp_type_traits.h \
  /usr/include/c++/14.2.1/ext/type_traits.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/node.hpp \
  /usr/include/c++/14.2.1/memory /usr/include/c++/14.2.1/bits/memoryfwd.h \
  /usr/include/c++/14.2.1/bits/allocator.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++allocator.h \
@@ -208,9 +208,9 @@ ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o: \
  /usr/include/c++/14.2.1/vector /usr/include/c++/14.2.1/bits/stl_vector.h \
  /usr/include/c++/14.2.1/bits/stl_bvector.h \
  /usr/include/c++/14.2.1/bits/vector.tcc \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/dom/requirement.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/screen.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/image.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/pixel.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/color.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp

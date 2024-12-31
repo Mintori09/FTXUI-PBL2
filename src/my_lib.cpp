@@ -5,7 +5,7 @@
 #include <iostream>
 #include <string>
 #include <thread>
-bool isValidTimeFormat(const std::string& time) {
+bool isValidTimeFormat(const std::string &time) {
   // Regular expression to match the pattern hh:mm
   std::regex timePattern("^([01]?[0-9]|2[0-3]):([0-5]?[0-9])$");
 
@@ -349,15 +349,16 @@ std::ostream &operator<<(std::ostream &os, const Time &time) {
      << std::setfill('0') << time.minute;
   return os;
 }
-bool isEscapePressed() {
-  if (_kbhit()) {       // Kiểm tra nếu có phím nào được nhấn
-    char ch = _getch(); // Lấy mã phím đã nhấn
-    if (ch == 27) {     // 27 là mã ASCII cho phím ESC
-      return true;
-    }
-  }
-  return false;
-}
+// bool isEscapePressed() {
+//   if (_kbhit()) {       // Kiểm tra nếu có phím nào được nhấn
+//     char ch = _getch(); // Lấy mã phím đã nhấn
+//     if (ch == 27) {     // 27 là mã ASCII cho phím ESC
+//       return true;
+//     }
+//   }
+//   return false;
+// }
+
 bool Date::operator>(const Date &other) const {
   if (year != other.year) {
     return year > other.year; // So sánh năm

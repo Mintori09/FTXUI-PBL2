@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mintori/Documents/FTXUI-PBL2
+CMAKE_SOURCE_DIR = /home/mintori/Documents/code/FTXUI-PBL2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mintori/Documents/FTXUI-PBL2/build
+CMAKE_BINARY_DIR = /home/mintori/Documents/code/FTXUI-PBL2/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -68,7 +68,7 @@ CMAKE_BINARY_DIR = /home/mintori/Documents/FTXUI-PBL2/build
 # Special rule for the target package
 package: preinstall
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool..."
-	cd /home/mintori/Documents/FTXUI-PBL2/build && /usr/bin/cpack --config ./CPackConfig.cmake
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && /usr/bin/cpack --config ./CPackConfig.cmake
 .PHONY : package
 
 # Special rule for the target package
@@ -78,7 +78,7 @@ package/fast: package
 # Special rule for the target package_source
 package_source:
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --cyan "Run CPack packaging tool for source..."
-	cd /home/mintori/Documents/FTXUI-PBL2/build && /usr/bin/cpack --config ./CPackSourceConfig.cmake /home/mintori/Documents/FTXUI-PBL2/build/CPackSourceConfig.cmake
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && /usr/bin/cpack --config ./CPackSourceConfig.cmake /home/mintori/Documents/code/FTXUI-PBL2/build/CPackSourceConfig.cmake
 .PHONY : package_source
 
 # Special rule for the target package_source
@@ -152,14 +152,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles /home/mintori/Documents/FTXUI-PBL2/build/ftxui_build/examples//CMakeFiles/progress.marks
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/FTXUI-PBL2/build/CMakeFiles 0
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles /home/mintori/Documents/code/FTXUI-PBL2/build/ftxui_build/examples//CMakeFiles/progress.marks
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/mintori/Documents/code/FTXUI-PBL2/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/clean
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/clean
 .PHONY : clean
 
 # The main clean target
@@ -168,17 +168,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/preinstall
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/preinstall
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ftxui_build/examples/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -206,6 +206,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/mintori/Documents/FTXUI-PBL2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/mintori/Documents/code/FTXUI-PBL2/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

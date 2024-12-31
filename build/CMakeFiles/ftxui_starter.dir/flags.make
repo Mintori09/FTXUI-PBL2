@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -isystem /home/mintori/Documents/FTXUI-PBL2/ftxui/include
+CXX_INCLUDES = -isystem /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include
 
 CXX_FLAGS = -std=gnu++23
 

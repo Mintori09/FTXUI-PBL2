@@ -1,5 +1,5 @@
 ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/cstdlib \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/os_defines.h \
@@ -108,7 +108,7 @@ ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o: \
  /usr/include/c++/14.2.1/bits/uses_allocator.h \
  /usr/include/c++/14.2.1/bits/uses_allocator_args.h \
  /usr/include/c++/14.2.1/tuple /usr/include/c++/14.2.1/bits/ranges_util.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/terminal.hpp \
  /usr/include/sys/ioctl.h /usr/include/bits/ioctls.h \
  /usr/include/asm/ioctls.h /usr/include/asm-generic/ioctls.h \
  /usr/include/linux/ioctl.h /usr/include/asm/ioctl.h \

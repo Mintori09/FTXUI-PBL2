@@ -1,5 +1,5 @@
 ftxui_build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/map \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -117,9 +117,9 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o: \
  /usr/include/c++/14.2.1/bits/basic_string.tcc \
  /usr/include/c++/14.2.1/utility \
  /usr/include/c++/14.2.1/bits/stl_relops.h \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/event.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/mouse.hpp \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/event.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/mouse.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/screen/string.hpp \
  /usr/include/c++/14.2.1/vector \
  /usr/include/c++/14.2.1/bits/stl_uninitialized.h \
  /usr/include/c++/14.2.1/bits/stl_vector.h \

@@ -1,5 +1,5 @@
 ftxui_build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/src/ftxui/component/animation.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/14.2.1/cmath \
  /usr/include/c++/14.2.1/bits/requires_hosted.h \
  /usr/include/c++/14.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -77,7 +77,7 @@ ftxui_build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o: \
  /usr/include/c++/14.2.1/utility \
  /usr/include/c++/14.2.1/bits/stl_relops.h \
  /usr/include/c++/14.2.1/initializer_list \
- /home/mintori/Documents/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
+ /home/mintori/Documents/code/FTXUI-PBL2/ftxui/include/ftxui/component/animation.hpp \
  /usr/include/c++/14.2.1/chrono /usr/include/c++/14.2.1/bits/chrono.h \
  /usr/include/c++/14.2.1/ratio /usr/include/c++/14.2.1/cstdint \
  /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/include/stdint.h \
