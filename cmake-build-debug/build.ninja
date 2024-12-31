@@ -55,8 +55,13 @@ build CMakeFiles/ftxui_starter.dir/main.cpp.obj: CXX_COMPILER__ftxui_starter_uns
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
+
+build CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/Menu/menu.cpp || cmake_object_order_depends_target_ftxui_starter
+  DEP_FILE = CMakeFiles\ftxui_starter.dir\Menu\menu.cpp.obj.d
+  FLAGS = -g -std=gnu++23 -fdiagnostics-color=always
+  INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
+  OBJECT_DIR = CMakeFiles\ftxui_starter.dir
+  OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\Menu
 
 build CMakeFiles/ftxui_starter.dir/src/Account.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Account.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Account.cpp.obj.d
@@ -64,8 +69,6 @@ build CMakeFiles/ftxui_starter.dir/src/Account.cpp.obj: CXX_COMPILER__ftxui_star
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Accounts.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Accounts.cpp.obj.d
@@ -73,8 +76,6 @@ build CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.obj: CXX_COMPILER__ftxui_sta
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/Movie.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Movie.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Movie.cpp.obj.d
@@ -82,8 +83,6 @@ build CMakeFiles/ftxui_starter.dir/src/Movie.cpp.obj: CXX_COMPILER__ftxui_starte
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/Movies.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Movies.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Movies.cpp.obj.d
@@ -91,8 +90,6 @@ build CMakeFiles/ftxui_starter.dir/src/Movies.cpp.obj: CXX_COMPILER__ftxui_start
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/ShowTime.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\ShowTime.cpp.obj.d
@@ -100,8 +97,6 @@ build CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.obj: CXX_COMPILER__ftxui_sta
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Showtimes.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Showtimes.cpp.obj.d
@@ -109,8 +104,6 @@ build CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.obj: CXX_COMPILER__ftxui_st
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Ticket.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Ticket.cpp.obj.d
@@ -118,8 +111,6 @@ build CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.obj: CXX_COMPILER__ftxui_start
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/Tickets.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\Tickets.cpp.obj.d
@@ -127,8 +118,6 @@ build CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.obj: CXX_COMPILER__ftxui_star
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 build CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.obj: CXX_COMPILER__ftxui_starter_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/src/my_lib.cpp || cmake_object_order_depends_target_ftxui_starter
   DEP_FILE = CMakeFiles\ftxui_starter.dir\src\my_lib.cpp.obj.d
@@ -136,8 +125,6 @@ build CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.obj: CXX_COMPILER__ftxui_start
   INCLUDES = -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   OBJECT_FILE_DIR = CMakeFiles\ftxui_starter.dir\src
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
-  TARGET_PDB = ftxui_starter.pdb
 
 
 # =============================================================================
@@ -147,16 +134,15 @@ build CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.obj: CXX_COMPILER__ftxui_start
 #############################################
 # Link the executable ftxui_starter.exe
 
-build ftxui_starter.exe: CXX_EXECUTABLE_LINKER__ftxui_starter_Debug CMakeFiles/ftxui_starter.dir/main.cpp.obj CMakeFiles/ftxui_starter.dir/src/Account.cpp.obj CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.obj CMakeFiles/ftxui_starter.dir/src/Movie.cpp.obj CMakeFiles/ftxui_starter.dir/src/Movies.cpp.obj CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.obj CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.obj CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.obj CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.obj CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.obj | ftxui_build/libftxui-screen.a ftxui_build/libftxui-dom.a ftxui_build/libftxui-component.a ftxui_build/libftxui-dom.a ftxui_build/libftxui-screen.a || ftxui_build/libftxui-component.a ftxui_build/libftxui-dom.a ftxui_build/libftxui-screen.a
+build ftxui_starter.exe: CXX_EXECUTABLE_LINKER__ftxui_starter_Debug CMakeFiles/ftxui_starter.dir/main.cpp.obj CMakeFiles/ftxui_starter.dir/Menu/menu.cpp.obj CMakeFiles/ftxui_starter.dir/src/Account.cpp.obj CMakeFiles/ftxui_starter.dir/src/Accounts.cpp.obj CMakeFiles/ftxui_starter.dir/src/Movie.cpp.obj CMakeFiles/ftxui_starter.dir/src/Movies.cpp.obj CMakeFiles/ftxui_starter.dir/src/ShowTime.cpp.obj CMakeFiles/ftxui_starter.dir/src/Showtimes.cpp.obj CMakeFiles/ftxui_starter.dir/src/Ticket.cpp.obj CMakeFiles/ftxui_starter.dir/src/Tickets.cpp.obj CMakeFiles/ftxui_starter.dir/src/my_lib.cpp.obj | ftxui_build/libftxui-screen.a ftxui_build/libftxui-dom.a ftxui_build/libftxui-component.a ftxui_build/libftxui-dom.a ftxui_build/libftxui-screen.a || ftxui_build/libftxui-component.a ftxui_build/libftxui-dom.a ftxui_build/libftxui-screen.a
   FLAGS = -g
   LINK_LIBRARIES = ftxui_build/libftxui-screen.a  ftxui_build/libftxui-dom.a  ftxui_build/libftxui-component.a  ftxui_build/libftxui-dom.a  ftxui_build/libftxui-screen.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ftxui_starter.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ftxui_starter.dir\
   TARGET_FILE = ftxui_starter.exe
   TARGET_IMPLIB = libftxui_starter.dll.a
-  TARGET_PDB = ftxui_starter.pdb
+  TARGET_PDB = ftxui_starter.exe.dbg
 
 
 #############################################
@@ -268,8 +254,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.obj: CXX_COMPIL
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.obj: CXX_COMPILER__screen_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/screen/color.cpp || cmake_object_order_depends_target_screen
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -278,8 +262,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.obj: CXX_COMP
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.obj: CXX_COMPILER__screen_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/screen/color_info.cpp || cmake_object_order_depends_target_screen
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -288,8 +270,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.obj: CXX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.obj: CXX_COMPILER__screen_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/screen/image.cpp || cmake_object_order_depends_target_screen
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -298,8 +278,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.obj: CXX_COMP
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.obj: CXX_COMPILER__screen_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/screen/screen.cpp || cmake_object_order_depends_target_screen
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -308,8 +286,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.obj: CXX_COM
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.obj: CXX_COMPILER__screen_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/screen/string.cpp || cmake_object_order_depends_target_screen
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -318,8 +294,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.obj: CXX_COM
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.obj: CXX_COMPILER__screen_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/screen/terminal.cpp || cmake_object_order_depends_target_screen
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -328,8 +302,6 @@ build ftxui_build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.obj: CXX_C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\screen.dir\src\ftxui\screen
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
 
 
 # =============================================================================
@@ -344,9 +316,8 @@ build ftxui_build/libftxui-screen.a: CXX_STATIC_LIBRARY_LINKER__screen_Debug ftx
   OBJECT_DIR = ftxui_build\CMakeFiles\screen.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\screen.dir\screen.pdb
   TARGET_FILE = ftxui_build\libftxui-screen.a
-  TARGET_PDB = ftxui_build\libftxui-screen.pdb
+  TARGET_PDB = ftxui-screen.a.dbg
 
 # =============================================================================
 # Object build statements for STATIC_LIBRARY target dom
@@ -364,8 +335,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.obj: CXX_COMPIL
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/blink.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -374,8 +343,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/bold.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -384,8 +351,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/hyperlink.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -394,8 +359,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.obj: CXX_COMPIL
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/border.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -404,8 +367,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.obj: CXX_COMPILER_
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/box_helper.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -414,8 +375,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.obj: CXX_COMPI
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/canvas.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -424,8 +383,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.obj: CXX_COMPILER_
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/clear_under.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -434,8 +391,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.obj: CXX_COMP
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/color.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -444,8 +399,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/composite_decorator.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -454,8 +407,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.obj: 
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/dbox.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -464,8 +415,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/dim.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -474,8 +423,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.obj: CXX_COMPILER__do
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/flex.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -484,8 +431,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -494,8 +439,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.obj: CXX_COMPILER
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_config.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -504,8 +447,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.obj: CXX_C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/flexbox_helper.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -514,8 +455,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.obj: CXX_C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/focus.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -524,8 +463,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/frame.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -534,8 +471,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/gauge.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -544,8 +479,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/graph.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -554,8 +487,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/gridbox.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -564,8 +495,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.obj: CXX_COMPILER
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/hbox.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -574,8 +503,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/inverted.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -584,8 +511,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.obj: CXX_COMPILE
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/linear_gradient.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -594,8 +519,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.obj: CXX_
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/node.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -604,8 +527,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/node_decorator.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -614,8 +535,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.obj: CXX_C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/paragraph.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -624,8 +543,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.obj: CXX_COMPIL
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/reflect.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -634,8 +551,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.obj: CXX_COMPILER
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/scroll_indicator.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -644,8 +559,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.obj: CXX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/separator.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -654,8 +567,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.obj: CXX_COMPIL
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/size.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -664,8 +575,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/spinner.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -674,8 +583,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.obj: CXX_COMPILER
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/strikethrough.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -684,8 +591,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.obj: CXX_CO
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/table.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -694,8 +599,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.obj: CXX_COMPILER__
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/text.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -704,8 +607,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -714,8 +615,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.obj: CXX_COMPI
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/underlined_double.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -724,8 +623,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.obj: CX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/util.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -734,8 +631,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.obj: CXX_COMPILER__dom_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/dom/vbox.cpp || cmake_object_order_depends_target_dom
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -744,8 +639,6 @@ build ftxui_build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.obj: CXX_COMPILER__d
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\dom.dir\src\ftxui\dom
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
 
 
 # =============================================================================
@@ -760,9 +653,8 @@ build ftxui_build/libftxui-dom.a: CXX_STATIC_LIBRARY_LINKER__dom_Debug ftxui_bui
   OBJECT_DIR = ftxui_build\CMakeFiles\dom.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\dom.dir\dom.pdb
   TARGET_FILE = ftxui_build\libftxui-dom.a
-  TARGET_PDB = ftxui_build\libftxui-dom.pdb
+  TARGET_PDB = ftxui-dom.a.dbg
 
 # =============================================================================
 # Object build statements for STATIC_LIBRARY target component
@@ -780,8 +672,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.obj
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/button.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -790,8 +680,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.obj: C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/catch_event.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -800,8 +688,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/checkbox.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -810,8 +696,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.obj:
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/collapsible.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -820,8 +704,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/component.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -830,8 +712,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.obj
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/component_options.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -840,8 +720,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/component_options
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/container.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -850,8 +728,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.obj
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/dropdown.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -860,8 +736,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.obj:
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/event.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -870,8 +744,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.obj: CX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/hoverable.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -880,8 +752,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.obj
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/input.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -890,8 +760,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.obj: CX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/loop.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -900,8 +768,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.obj: CXX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/maybe.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -910,8 +776,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.obj: CX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/menu.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -920,8 +784,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.obj: CXX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/modal.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -930,8 +792,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.obj: CX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/radiobox.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -940,8 +800,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.obj:
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/renderer.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -950,8 +808,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.obj:
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/resizable_split.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -960,8 +816,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.c
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/screen_interactive.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -970,8 +824,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/screen_interactiv
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/slider.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -980,8 +832,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.obj: C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/terminal_input_parser.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -990,8 +840,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/util.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -1000,8 +848,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.obj: CXX
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.obj: CXX_COMPILER__component_unscanned_Debug C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src/ftxui/component/window.cpp || cmake_object_order_depends_target_component
   DEFINES = -DFTXUI_MICROSOFT_TERMINAL_FALLBACK -DUNICODE -D_UNICODE
@@ -1010,8 +856,6 @@ build ftxui_build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.obj: C
   INCLUDES = -IC:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/src -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   OBJECT_FILE_DIR = ftxui_build\CMakeFiles\component.dir\src\ftxui\component
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
 
 
 # =============================================================================
@@ -1026,9 +870,8 @@ build ftxui_build/libftxui-component.a: CXX_STATIC_LIBRARY_LINKER__component_Deb
   OBJECT_DIR = ftxui_build\CMakeFiles\component.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = ftxui_build\CMakeFiles\component.dir\component.pdb
   TARGET_FILE = ftxui_build\libftxui-component.a
-  TARGET_PDB = ftxui_build\libftxui-component.pdb
+  TARGET_PDB = ftxui-component.a.dbg
 
 
 #############################################
@@ -1362,14 +1205,14 @@ build ftxui_build/examples/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPack.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPackComponent.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Templates/CPackConfig.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui-config.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_benchmark.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_coverage.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_export.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_fuzzer.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_install.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_message.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_package.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_set_options.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_test.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/iwyu.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/doc/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/examples/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/ftxui.pc.in CMakeCache.txt CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPack.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPackComponent.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Templates/CPackConfig.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui-config.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_benchmark.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_coverage.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_export.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_fuzzer.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_install.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_message.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_package.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_set_options.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_test.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/iwyu.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/doc/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/examples/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/ftxui.pc.in CMakeCache.txt CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPack.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPackComponent.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Templates/CPackConfig.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui-config.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_benchmark.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_coverage.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_export.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_fuzzer.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_install.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_message.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_package.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_set_options.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_test.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/iwyu.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/doc/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/examples/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/ftxui.pc.in CMakeCache.txt CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake: phony
+build C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/BasicConfigVersion-SameMajorVersion.cmake.in C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPack.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CPackComponent.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckCXXSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckIncludeFileCXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/CheckLibraryExists.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindPackageMessage.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/FindThreads.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/GNUInstallDirs.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CheckSourceCompiles.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Modules/WriteBasicConfigVersionFile.cmake C$:/Program$ Files$ (x86)/JetBrains/CLion$ 2024.3.1.1/bin/cmake/win/x64/share/cmake-3.30/Templates/CPackConfig.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui-config.cmake.in C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_benchmark.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_coverage.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_export.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_fuzzer.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_install.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_message.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_package.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_set_options.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/ftxui_test.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/cmake/iwyu.cmake C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/doc/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/examples/CMakeLists.txt C$:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/ftxui.pc.in CMakeCache.txt CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake: phony
 
 
 #############################################

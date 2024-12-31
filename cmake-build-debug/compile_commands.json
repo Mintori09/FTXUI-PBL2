@@ -7,6 +7,12 @@
 },
 {
   "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/cmake-build-debug",
+  "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\ftxui_starter.dir\\Menu\\menu.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\Menu\\menu.cpp",
+  "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\Menu\\menu.cpp",
+  "output": "CMakeFiles\\ftxui_starter.dir\\Menu\\menu.cpp.obj"
+},
+{
+  "directory": "C:/Users/Tvmth/Desktop/FTXUI-PBL2/cmake-build-debug",
   "command": "C:\\mingw64\\bin\\c++.exe -isystem C:/Users/Tvmth/Desktop/FTXUI-PBL2/ftxui/include -g -std=gnu++23 -fdiagnostics-color=always -o CMakeFiles\\ftxui_starter.dir\\src\\Account.cpp.obj -c C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Account.cpp",
   "file": "C:\\Users\\Tvmth\\Desktop\\FTXUI-PBL2\\src\\Account.cpp",
   "output": "CMakeFiles\\ftxui_starter.dir\\src\\Account.cpp.obj"

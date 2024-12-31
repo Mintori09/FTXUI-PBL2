@@ -1,6 +1,6 @@
-prefix="/usr/local"
-libdir="/usr/local/lib"
-includedir="/usr/local/include"
+prefix="C:/Program Files (x86)/ftxui_starter"
+libdir="C:/Program Files (x86)/ftxui_starter/lib"
+includedir="C:/Program Files (x86)/ftxui_starter/include"
 
 Name: ftxui
 Description: 

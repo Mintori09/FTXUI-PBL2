@@ -1,10 +1,4 @@
 "C:\Program Files (x86)\JetBrains\CLion 2024.3.1.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files (x86)/JetBrains/CLion 2024.3.1.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Tvmth\Desktop\FTXUI-PBL2 -B C:\Users\Tvmth\Desktop\FTXUI-PBL2\cmake-build-debug
--- The CXX compiler identification is GNU 14.2.0
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: C:/mingw64/bin/c++.exe - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
 -- ┌─ FTXUI options ─────────────────────
 -- │ FTXUI_ENABLE_INSTALL     : ON
 -- │ FTXUI_BUILD_EXAMPLES     : OFF
@@ -16,9 +10,6 @@
 -- │ FTXUI_DEV_WARNINGS       : OFF
 -- │ FTXUI_CLANG_TIDY         : OFF
 -- └─────────────────────────────────────
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
--- Found Threads: TRUE
--- Configuring done (13.1s)
+-- Configuring done (1.9s)
 -- Generating done (0.3s)
 -- Build files have been written to: C:/Users/Tvmth/Desktop/FTXUI-PBL2/cmake-build-debug
