@@ -228,6 +228,154 @@ AdminMenu::displayYearStatistics(const Vector<Ticket> &tickets,
     return vbox(result) | center;
 }
 
+ftxui::Element AdminMenu::displayMonthStatisticsForMovie(const Vector<Ticket> &tickets, const Vector<Movie> &movies, const Vector<ShowTime> &showtimes) {
+    using namespace ftxui;
+    Elements month_Statistics;
+    Map<std::string, int> movieRevenue;
+
+    for (const auto &ticket : tickets) {
+        int ticketMonth = ticket.getBookingDate().getMonth();
+        int ticketYear = ticket.getBookingDate().getYear();
+
+        // Kiểm tra tháng và thêm doanh thu
+        if (ticketMonth == currentMonth() && ticketYear == currentYear()) {
+            ShowTime showtime = getShowTimeFromTicket(ticket, showtimes);
+            std::string movieName = getMovieTitle(showtime.getMovieId(), movies);
+            movieRevenue.insert(movieName, ticket.getTicketPrice());
+        }
+    }
+
+    // Thêm tiêu đề bảng thống kê
+    month_Statistics.push_back(
+        hbox(text("index") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 5) | hcenter, separator(), text("Movie") | bold | color(Color::Blue) |
+             size(WIDTH, EQUAL, 25) | hcenter,
+             separator(),
+             text("Total Revenue") | bold | color(Color::Blue) |
+             size(WIDTH, EQUAL, 15) | hcenter));
+    int index = 1;
+
+    // Duyệt qua các phim và hiển thị doanh thu
+    for (auto it = movieRevenue.begin(); it != movieRevenue.end(); ++it) {
+        auto [movieName, totalRevenue] = *it; // Structured binding to get the key-value pair
+        month_Statistics.push_back(
+                 separator());
+        month_Statistics.push_back(
+            hbox(text(std::to_string(index++)) | color(Color::White) | size(WIDTH, EQUAL, 5), separator(),text(movieName) | color(Color::White) | size(WIDTH, EQUAL, 25),
+                 separator(),
+                 text(std::to_string(totalRevenue)) | color(Color::White) | size(WIDTH, EQUAL, 15)));
+    }
+
+    // Tạo phần thống kê
+    Elements result;
+
+    result.push_back(text("Month: " + std::to_string(currentMonth()) + "  Year: " + std::to_string(currentYear())));
+    result.push_back(vbox(vbox(month_Statistics) | border | center | size(WIDTH, EQUAL, 50)));
+    return vbox(result) | center;
+}
+
+ftxui::Element AdminMenu::displayQuarterStatisticsForMovie(const Vector<Ticket> &tickets, const Vector<Movie> &movies, const Vector<ShowTime> &showtimes) {
+    using namespace ftxui;
+    Elements quarter_Statistics;
+    Map<std::string, int> movieRevenue;
+
+    // Define the quarters
+    // Quarter 1: Jan, Feb, Mar | Quarter 2: Apr, May, Jun | Quarter 3: Jul, Aug, Sep | Quarter 4: Oct, Nov, Dec
+    auto getQuarter = [](int month) -> int {
+        if (month >= 1 && month <= 3) return 1;
+        if (month >= 4 && month <= 6) return 2;
+        if (month >= 7 && month <= 9) return 3;
+        return 4; // October, November, December
+    };
+
+    // Get the current year and quarter
+    int currentQuarter = getQuarter(currentMonth()); // Determine current quarter based on current month
+
+    for (const auto &ticket : tickets) {
+        int ticketMonth = ticket.getBookingDate().getMonth();
+        int ticketYear = ticket.getBookingDate().getYear();
+
+        // Only consider tickets for the current year and current quarter
+        int ticketQuarter = getQuarter(ticketMonth);
+        if (ticketYear == currentYear() && ticketQuarter == currentQuarter) {
+            ShowTime showtime = getShowTimeFromTicket(ticket, showtimes);
+            std::string movieName = getMovieTitle(showtime.getMovieId(), movies);
+
+            // Create a key that combines the movie name and the quarter
+            std::string quarterKey = movieName;
+
+            // Insert revenue for this movie in the respective quarter
+            movieRevenue.insert(quarterKey, ticket.getTicketPrice());
+        }
+    }
+
+    // Add table header
+    quarter_Statistics.push_back(
+        hbox(text("index") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 5) | hcenter, separator(),
+             text("Movie - Quarter") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 25) | hcenter,
+             separator(), text("Total Revenue") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 15) | hcenter));
+    int index = 1;
+
+    // Loop through the movieRevenue map and display revenue for each quarter
+    for (auto it = movieRevenue.begin(); it != movieRevenue.end(); ++it) {
+        auto [quarterKey, totalRevenue] = *it; // Structured binding to get the key-value pair
+        quarter_Statistics.push_back(separator());
+        quarter_Statistics.push_back(
+            hbox(text(std::to_string(index++)) | color(Color::White) | size(WIDTH, EQUAL, 5), separator(),
+                 text(quarterKey) | color(Color::White) | size(WIDTH, EQUAL, 25),
+                 separator(),
+                 text(std::to_string(totalRevenue)) | color(Color::White) | size(WIDTH, EQUAL, 15)));
+    }
+
+    // Create the final statistics element
+    Elements result;
+    result.push_back(text("Quarter: " + std::to_string(currentQuarter) + "  Year: " + std::to_string(currentYear())));
+    result.push_back(vbox(vbox(quarter_Statistics) | border | center | size(WIDTH, EQUAL, 50)));
+    return vbox(result) | center;
+}
+
+ftxui::Element AdminMenu::displayYearStatisticsForMovie(const Vector<Ticket> &tickets, const Vector<Movie> &movies, const Vector<ShowTime> &showtimes) {
+    using namespace ftxui;
+    Elements month_Statistics;
+    Map<std::string, int> movieRevenue;
+
+    for (const auto &ticket : tickets) {
+        int ticketYear = ticket.getBookingDate().getYear();
+
+        // Kiểm tra tháng và thêm doanh thu
+        if (ticketYear == currentYear()) {
+            ShowTime showtime = getShowTimeFromTicket(ticket, showtimes);
+            std::string movieName = getMovieTitle(showtime.getMovieId(), movies);
+            movieRevenue.insert(movieName, ticket.getTicketPrice());
+        }
+    }
+
+    // Thêm tiêu đề bảng thống kê
+    month_Statistics.push_back(
+        hbox(text("index") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 5) | hcenter, separator(), text("Movie") | bold | color(Color::Blue) |
+             size(WIDTH, EQUAL, 25) | hcenter,
+             separator(),
+             text("Total Revenue") | bold | color(Color::Blue) |
+             size(WIDTH, EQUAL, 15) | hcenter));
+    int index = 1;
+
+    // Duyệt qua các phim và hiển thị doanh thu
+    for (auto it = movieRevenue.begin(); it != movieRevenue.end(); ++it) {
+        auto [movieName, totalRevenue] = *it; // Structured binding to get the key-value pair
+        month_Statistics.push_back(
+                 separator());
+        month_Statistics.push_back(
+            hbox(text(std::to_string(index++)) | color(Color::White) | size(WIDTH, EQUAL, 5), separator(),text(movieName) | color(Color::White) | size(WIDTH, EQUAL, 25),
+                 separator(),
+                 text(std::to_string(totalRevenue)) | color(Color::White) | size(WIDTH, EQUAL, 15)));
+    }
+
+    // Tạo phần thống kê
+    Elements result;
+
+    result.push_back(text("Year: " + std::to_string(currentYear())));
+    result.push_back(vbox(vbox(month_Statistics) | border | center | size(WIDTH, EQUAL, 50)));
+    return vbox(result) | center;
+}
 ftxui::Element AdminMenu::DisplayStatistics(const Vector<Ticket> &tickets,
                                             const Vector<Movie> &movies,
                                             const Vector<ShowTime> &showtimes,
@@ -242,56 +390,38 @@ ftxui::Element AdminMenu::DisplayStatistics(const Vector<Ticket> &tickets,
         case 3:
             // Logic for displaying statistics for the year
             return displayYearStatistics(tickets, movies, showtimes);
-        case 4:
-            return displayMonthStatisticsForMovie(tickets, movies, showtimes);
         default:
             return displayMonthStatistics(tickets);
     }
 }
-ftxui::Element AdminMenu::displayMonthStatisticsForMovie(const Vector<Ticket> &tickets, const Vector<Movie> &movies, const Vector<ShowTime> &showtimes) {
-    using namespace ftxui;
-    Elements month_Statistics;
-    Vector<int> months = getLast6Months();
-    Map<std::string, int> movieRevenue;
 
-    for (const auto &ticket: tickets) {
-        int ticketMonth = ticket.getBookingDate().getMonth();
-        int ticketYear = ticket.getBookingDate().getYear();
-        Date current(currentDate());
-
-        // Kiểm tra tháng và thêm doanh thu
-        if (ticketMonth == currentMonth() && ticketYear == currentYear()) {
-            ShowTime showtime = getShowTimeFromTicket(ticket, showtimes);
-
-            std::string movieName = getMovieTitle(showtime.getMovieId(), movies);
-            movieRevenue.insert(movieName, ticket.getTicketPrice());
-        }
+ftxui::Element AdminMenu::DisplayStatisticsForMovie(const Vector<Ticket> &tickets,
+                                            const Vector<Movie> &movies,
+                                            const Vector<ShowTime> &showtimes,
+                                            int Check) {
+    switch (Check) {
+        case 1:
+            // Logic for displaying statistics for the month
+            return displayMonthStatisticsForMovie(tickets, movies, showtimes);
+        case 2:
+            // Logic for displaying statistics for the quarter
+            return displayQuarterStatisticsForMovie(tickets, movies, showtimes);
+        case 3:
+            // Logic for displaying statistics for the year
+            return displayYearStatisticsForMovie(tickets, movies, showtimes);
+        default:
+            return displayMonthStatisticsForMovie(tickets, movies, showtimes);
     }
-
-    // Thêm tiêu đề bảng thống kê
-    month_Statistics.push_back(
-        hbox(text("Movie") | bold | color(Color::Blue) |
-             size(WIDTH, EQUAL, 25) | hcenter,
-             separator(),
-             text("Total Revenue") | bold | color(Color::Blue) |
-             size(WIDTH, EQUAL, 15) | hcenter));
-
-    // Duyệt qua các phim và hiển thị doanh thu
-    movieRevenue.traverse();
-
-    // Tạo phần thống kê
-    Elements result;
-    result.push_back(vbox(vbox(month_Statistics) | border | center | size(WIDTH, EQUAL, 50)));
-    return vbox(result) | center;
 }
 
 void AdminMenu::Statistic(const Vector<Ticket> &tickets,
                           const Vector<Movie> &movies,
                           const Vector<ShowTime> &showtimes) {
+    using namespace ftxui;
     auto screen = ScreenInteractive::Fullscreen();
 
     // Initialize 'Check' as a valid boolean (e.g., false or true)
-    int Check = 4; // Example: You can set it based on user input or other logic
+    int Check = 1; // Example: You can set it based on user input or other logic
 
     // Define buttons
     Component statistics_month =
@@ -299,7 +429,6 @@ void AdminMenu::Statistic(const Vector<Ticket> &tickets,
     Component statistics_quarter =
             Button("2. Statistics Quarter", [&] { Check = 2; });
     Component statistics_year = Button("3. Statistics Year", [&] { Check = 3; });
-    Component test = Button("test", [&] { Check = 4; });
     Component back_button = Button("Back", [&] { screen.Exit(); });
 
     // Create a vertical container for the buttons
@@ -318,13 +447,12 @@ void AdminMenu::Statistic(const Vector<Ticket> &tickets,
                        text("Statistics") | center | bold, separator(),
                        statistics_month->Render(), statistics_quarter->Render(),
                        statistics_year->Render(),
-                       test->Render(),
                        separator(),
                        back_button->Render()
 
                    }) |
                    border | center |
-                   size(WIDTH, EQUAL, 50), // Style for the left panel
+                   size(WIDTH, EQUAL, 40), // Style for the left panel
 
                    separator(),
 
@@ -339,8 +467,100 @@ void AdminMenu::Statistic(const Vector<Ticket> &tickets,
     screen.Loop(renderer);
 }
 
+void AdminMenu::StatisticForMovie(const Vector<Ticket> &tickets,
+                          const Vector<Movie> &movies,
+                          const Vector<ShowTime> &showtimes) {
+    using namespace ftxui;
+    auto screen = ScreenInteractive::Fullscreen();
+
+    // Initialize 'Check' as a valid boolean (e.g., false or true)
+    int Check = 1; // Example: You can set it based on user input or other logic
+
+    // Define buttons
+    Component statistics_month =
+            Button("1. Statistics Month", [&] { Check = 1; });
+    Component statistics_quarter =
+            Button("2. Statistics Quarter", [&] { Check = 2; });
+    Component statistics_year = Button("3. Statistics Year", [&] { Check = 3; });
+    Component back_button = Button("Back", [&] { screen.Exit(); });
+
+    // Create a vertical container for the buttons
+    auto container = Container::Vertical({
+        statistics_month,
+        statistics_quarter,
+        statistics_year,
+        back_button,
+    });
+
+    // Renderer for the entire UI
+    auto renderer = Renderer(container, [&] {
+        return hbox({
+                   // Left-side menu
+                   vbox({
+                       text("Statistics") | center | bold, separator(),
+                       statistics_month->Render(), statistics_quarter->Render(),
+                       statistics_year->Render(),
+                       separator(),
+                       back_button->Render()
+
+                   }) |
+                   border | center |
+                   size(WIDTH, EQUAL, 40), // Style for the left panel
+
+                   separator(),
+
+                   // Right-side panel with statistics display
+                   DisplayStatisticsForMovie(tickets, movies, showtimes,
+                                     Check) |
+                   center // Pass 'Check' to DisplayStatistics
+               }) |
+               center;
+    });
+
+    screen.Loop(renderer);
+}
+void AdminMenu::StatisticMenu(const Vector<Ticket> &tickets, const Vector<Movie> &movies,
+                     const Vector<ShowTime> &showtimes){
+    using namespace ftxui;    
+    auto screen = ScreenInteractive::TerminalOutput();
+    auto statistic_button = Button("Statistic Money", [&] {
+            Statistic(tickets, movies, showtimes);
+            });
+    auto statistic_for_movie_button = Button("Statistic Movie", [&] {
+            StatisticForMovie(tickets, movies, showtimes);
+            });
+
+    auto exit_button = Button("Exit", [&] { screen.Exit(); });
+
+    auto container = Container::Vertical(Components{
+        statistic_button,
+        exit_button,
+        statistic_for_movie_button
+    });
+
+    auto renderer = Renderer(container, [&] {
+        return vbox({
+                   statistic_button->Render() | 
+                   size(ftxui::WIDTH, ftxui::EQUAL, 50),
+                   statistic_for_movie_button->Render() | 
+                   size(ftxui::WIDTH, ftxui::EQUAL, 50),
+                   exit_button->Render() | 
+                   size(ftxui::WIDTH, ftxui::EQUAL, 50),
+                   // exit_button->Render() | size(ftxui::WIDTH, ftxui::EQUAL, 25) |
+                   // center,
+
+               }) |
+               border | center | hcenter;
+    });
+
+    screen.Loop(renderer);
+}
+
+
+
 void AdminMenu::run(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
                     Tickets &tickets, Account &account) {
+    using namespace ftxui;
     auto screen = ScreenInteractive::Fullscreen();
 
     // Tạo các nút cho từng tính năng
@@ -348,16 +568,16 @@ void AdminMenu::run(Movies &movies, ShowTimes &showtimes, Accounts &accounts,
         BookingTicket(movies.getMovies(), showtimes.getShowTimes(), account,
                       tickets);
     });
-    auto show_movies_button = Button("Movie", [&] { addMovie(movies); });
+    auto show_movies_button = Button("Add Movie", [&] { addMovie(movies); });
     auto show_showtimes_button =
             Button("Add ShowTime", [&] { addShowTime(movies, showtimes); });
-    auto show_booked_tickets_button = Button("Display Tickets", [&] {
+    auto show_booked_tickets_button = Button("Display Tickets History", [&] {
         showTicket(accounts.getAccounts(), tickets.getTickets(), movies.getMovies(),
                    showtimes.getShowTimes());
     });
     // auto update_account_button = Button("Update Account", [&] {});
-    auto statistic_button = Button("statistics", [&] {
-        Statistic(tickets.getTickets(), movies.getMovies(),
+    auto statistic_button = Button("Statistics", [&] {
+        StatisticMenu(tickets.getTickets(), movies.getMovies(),
                   showtimes.getShowTimes());
     });
     auto logout_button = Button("Log out", [&] { screen.Exit(); });

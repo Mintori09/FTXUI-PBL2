@@ -1636,14 +1636,28 @@ void menu::BookingTicket(const Vector<Movie> &movies,
 bool menu::checkDateByMonthAndYear(const Ticket &ticket, int month) {
   int ticketMonth = ticket.getBookingDate().getMonth();
   int ticketYear = ticket.getBookingDate().getYear();
+  int currentMonthValue = currentMonth();
   int currentYearValue = currentYear();
 
-  if ((month > 5 && ticketMonth == month && ticketYear == currentYearValue) ||
-      (month <= 5 && ticketMonth == month &&
-       ticketYear == (currentYearValue - 1))) {
-    return true;
+  // 6 tháng gần đây, từ tháng hiện tại trở về trước 6 tháng
+  // Kiểm tra từ tháng hiện tại đến tháng trước đó 5 tháng
+  for (int i = 0; i < 6; ++i) {
+    int checkMonth = (currentMonthValue - i - 1 + 12) % 12 +
+                     1; // Lấy tháng giảm dần, với việc sử dụng modulo
+    int checkYear = currentYearValue;
+
+    if (checkMonth > currentMonthValue) { // Nếu tháng vượt quá tháng hiện tại,
+                                          // thì phải lùi qua năm trước
+      checkYear--;
+    }
+
+    // Nếu tháng và năm của vé khớp với tháng và năm cần kiểm tra
+    if (ticketMonth == checkMonth && ticketYear == checkYear) {
+      return true;
+    }
   }
-  return false;
+
+  return false; // Nếu không khớp với bất kỳ tháng nào trong 6 tháng gần đây
 }
 
 int menu::maxOfVectorInt(Vector<int> nums) {

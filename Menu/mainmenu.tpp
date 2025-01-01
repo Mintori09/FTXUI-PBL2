@@ -60,8 +60,6 @@ void forgotPassword(Accounts &accounts) {
                        exit_button->Render() |
                        size(ftxui::WIDTH, ftxui::EQUAL, 25) | center,
                    }),
-                   exit_button->Render() | size(ftxui::WIDTH, ftxui::EQUAL, 25) |
-                   center,
                }) |
                border | center | hcenter;
     });
