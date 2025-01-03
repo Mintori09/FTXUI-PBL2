@@ -1,7 +1,6 @@
 #ifndef _VECTOR_H
 #define _VECTOR_H
 
-#include <algorithm>
 #include <cstddef>
 #include <stdexcept>
 #include <string>

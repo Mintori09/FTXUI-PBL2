@@ -17,17 +17,15 @@ Vector<int> menu::getLast6Months() {
 ShowTime menu::getShowTimeFromTicket(const Ticket &ticket,
                                      const Vector<ShowTime> &showtimes) {
   for (const auto &st : showtimes) {
-    // Use const reference
     if (st.getShowTimeId() == ticket.getShowTimeId()) {
-      return st; // Return found showtime
+      return st;
     }
   }
-  throw std::runtime_error(
-      "Showtime not found for the given ticket."); // Handle not found case
+  throw std::runtime_error("Showtime not found for the given ticket.");
 }
 
 void menu::addMovie(Movies &movies) {
-  system("cls");
+  clearScreen();
   using namespace ftxui;
   auto screen = ScreenInteractive::TerminalOutput();
 
@@ -94,7 +92,7 @@ void menu::addMovie(Movies &movies) {
                     text(message) | center | hcenter | color(Color::Blue)),
 
            }) |
-           border;
+           border | size(WIDTH, EQUAL, 100) | center;
   });
 
   screen.Loop(renderer);
@@ -172,7 +170,7 @@ void menu::addShowTime(const Movie &movie, ShowTimes &showtimes) {
                     text(message) | center | hcenter | color(Color::Blue)),
 
            }) |
-           border;
+           border | size(WIDTH, EQUAL, 100) | center;
   });
 
   screen.Loop(renderer);
@@ -243,7 +241,7 @@ void menu::UpdateAccount(Accounts &accounts, Account account) {
                //    text(account.getUserName()),
                //    text(account.getPhoneNumber()),
            }) |
-           border;
+           border | size(WIDTH, EQUAL, 100) | center;
   });
 
   screen.Loop(renderer);
@@ -378,10 +376,11 @@ ftxui::Element menu::DisplayMovies(const Vector<Movie> &movies,
           size(WIDTH, EQUAL, 15) | hcenter,
       separator(),
       text("Release Date") | bold | color(Color::Blue) |
-          size(WIDTH, EQUAL, 12) | hcenter,
-      separator(),
-      text("Rating") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 10) |
-          hcenter));
+          size(WIDTH, EQUAL, 12) | hcenter
+      /*separator(),*/
+      /*text("Rating") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 10) |*/
+      /*    hcenter));*/
+      ));
 
   for (const auto &movie : movies) {
     if (search_query.empty() ||
@@ -398,9 +397,11 @@ ftxui::Element menu::DisplayMovies(const Vector<Movie> &movies,
           separator(),
           text(std::to_string(movie.getDuration())) | size(WIDTH, EQUAL, 15),
           separator(),
-          text(movie.getReleaseDate().toString()) | size(WIDTH, EQUAL, 12),
-          separator(),
-          text(std::to_string(movie.getRating())) | size(WIDTH, EQUAL, 10)));
+          text(movie.getReleaseDate().toString()) | size(WIDTH, EQUAL, 12)
+          /*separator(),*/
+          /*text(std::to_string(movie.getRating())) | size(WIDTH, EQUAL,
+             10)));*/
+          ));
     }
   }
 

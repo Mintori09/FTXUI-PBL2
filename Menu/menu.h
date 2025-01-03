@@ -23,137 +23,133 @@
 
 class menu {
 public:
-    menu() {
-    }
+  menu() {}
 
-    ~menu() {
-    }
+  ~menu() {}
 
 protected:
-    Vector<int> getLast6Months();
+  Vector<int> getLast6Months();
 
-    bool checkShowTimeExistInTicket(const Ticket &ticket,
-                                    const Vector<ShowTime> &showtimes);
-
-    ShowTime getShowTimeFromTicket(const Ticket &ticket,
-                                   const Vector<ShowTime> &showtimes);
-
-    // Movie getMovieFromTicket(const Ticket &ticket, const Vector<Movie> &movies);
-
-    void addMovie(Movies &movies);
-
-    void addShowTime(const Movie &movie, ShowTimes &showtimes);
-
-    void UpdateAccount(Accounts &accounts, Account account);
-
-    std::string getMovieTitle(int movieId, const Vector<Movie> &movies);
-
-    bool checkMovieId(int movieId, const Vector<Movie> &movies);
-
-    Movie getMovie(int movieId, const Vector<Movie> &movies);
-
-    bool checkShowTimeId(int showTimeId, const Vector<ShowTime> &showTimes);
-
-    Vector<ShowTime> getFutureShowTimes(const Vector<ShowTime> &showTimes,
-                                        const Vector<Movie> &movies);
-
-    Vector<ShowTime>
-    getFutureAndCurrentShowTimes(const Vector<ShowTime> &showTimes,
-                                 const Vector<Movie> &movies);
-
-    Vector<Movie> getMoviesWithFutureShowTimes(const Vector<ShowTime> &showTimes,
-                                               const Vector<Movie> &movies);
-
-    ftxui::Element DisplayMovies(const Vector<Movie> &movies,
-                                 const std::string &search_query);
-
-    ftxui::Element DisplayShowTimes(const Vector<ShowTime> &showTimes,
-                                    const Vector<Movie> &movies,
-                                    const std::string &search_query);
-
-    int selectMovie(const Vector<Movie> &movie, const Vector<ShowTime> &showtime);
-
-    int selectMovieForAddShowTime(const Vector<Movie> &movies);
-
-    int selectShowTime(Vector<Movie> &movies, Vector<ShowTime> &showtimes);
-
-    int selectShowTimeCurrentAndFuture(const Vector<Movie> &movies,
-                                       const Vector<ShowTime> &showtimes);
-
-    std::string getUserName(const Ticket &ticket, const Vector<Account> accounts);
-
-    int getMovieId(const Ticket &ticket, const Vector<Movie> movies,
-                   const Vector<ShowTime> showtimes);
-
-    ShowTime getShowTime(int showTimeId, const Vector<ShowTime> &showtimes);
-
-    ftxui::Element DisplayTicketsAll(const Vector<Account> accounts,
-                                     const Vector<Ticket> tickets,
-                                     const ShowTime &showtime,
-                                     const Vector<Movie> &movies,
-                                     const std::string &search_query);
-
-    ftxui::Element DisplayTicketsAll(const Vector<Ticket> tickets,
-                                     const Vector<ShowTime> &showtimes,
-                                     const Vector<Movie> &movies,
-                                     const Account account);
-
-    void ShowTicketInfo(const Vector<Account> accounts,
-                        const Vector<Ticket> &tickets,
-                        const Vector<Movie> &movies, const ShowTime &showtime);
-
-    void ShowTicketInfoForAccount(const Account account,
-                                  const Vector<Ticket> &tickets,
-                                  const Vector<Movie> &movies,
+  bool checkShowTimeExistInTicket(const Ticket &ticket,
                                   const Vector<ShowTime> &showtimes);
 
-    void showTicket(const Vector<Account> accounts, const Vector<Ticket> &tickets,
-                    const Vector<Movie> &movies,
-                    const Vector<ShowTime> &showtimes);
+  ShowTime getShowTimeFromTicket(const Ticket &ticket,
+                                 const Vector<ShowTime> &showtimes);
 
-    void showUpdateAccountMenu(Accounts &accounts, Account &account);
+  void addMovie(Movies &movies);
 
-    void updateMovie(Movies &movies, Movie movie);
+  void addShowTime(const Movie &movie, ShowTimes &showtimes);
 
-    void displayMovie(const Vector<Movie> &movie,
-                      const Vector<ShowTime> &showtime);
+  void UpdateAccount(Accounts &accounts, Account account);
 
-    void displayShowTimes(const Vector<Movie> &movies,
-                          const Vector<ShowTime> &showtimes);
+  std::string getMovieTitle(int movieId, const Vector<Movie> &movies);
 
-    void addShowTime(Movies &movies, ShowTimes &showTimes);
+  bool checkMovieId(int movieId, const Vector<Movie> &movies);
 
-    ftxui::Element DisplayShowTimes(const Vector<ShowTime> &showTimes);
+  Movie getMovie(int movieId, const Vector<Movie> &movies);
 
-    ftxui::Element DisplayCheckedTicket(const Movie &movie,
-                                        const ShowTime &showtime,
-                                        const Account &account,
-                                        Vector<int> isSelected, Tickets &tickets);
+  bool checkShowTimeId(int showTimeId, const Vector<ShowTime> &showTimes);
 
-    bool Step4_DisplayCheckedTicket(const Movie &movie, const ShowTime &showtime,
-                                    const Account &account,
-                                    Vector<int> isSelected, Tickets &tickets);
+  Vector<ShowTime> getFutureShowTimes(const Vector<ShowTime> &showTimes,
+                                      const Vector<Movie> &movies);
 
-    void removeSeat(Vector<int> &selectedSeats, int seat);
+  Vector<ShowTime>
+  getFutureAndCurrentShowTimes(const Vector<ShowTime> &showTimes,
+                               const Vector<Movie> &movies);
 
-    bool Step3_SelectSeat(const Movie &movie, const ShowTime &showtime,
-                          const Account &account, Tickets &tickets);
+  Vector<Movie> getMoviesWithFutureShowTimes(const Vector<ShowTime> &showTimes,
+                                             const Vector<Movie> &movies);
 
-    bool Step2_SelectShowTime(const Movie &movie,
-                              const Vector<ShowTime> &showtimes,
-                              const Account &account, Tickets &tickets);
+  ftxui::Element DisplayMovies(const Vector<Movie> &movies,
+                               const std::string &search_query);
 
-    void Step1_SelectMovie(const Vector<Movie> &movie,
-                           const Vector<ShowTime> &showtimes,
-                           const Account &accounts, Tickets &tickets);
+  ftxui::Element DisplayShowTimes(const Vector<ShowTime> &showTimes,
+                                  const Vector<Movie> &movies,
+                                  const std::string &search_query);
 
-    void BookingTicket(const Vector<Movie> &movies,
-                       const Vector<ShowTime> &showtimes, const Account &account,
-                       Tickets &tickets);
+  int selectMovie(const Vector<Movie> &movie, const Vector<ShowTime> &showtime);
 
-    bool checkDateByMonthAndYear(const Ticket &ticket, int month);
+  int selectMovieForAddShowTime(const Vector<Movie> &movies);
 
-    int maxOfVectorInt(Vector<int> nums);
+  int selectShowTime(Vector<Movie> &movies, Vector<ShowTime> &showtimes);
+
+  int selectShowTimeCurrentAndFuture(const Vector<Movie> &movies,
+                                     const Vector<ShowTime> &showtimes);
+
+  std::string getUserName(const Ticket &ticket, const Vector<Account> accounts);
+
+  int getMovieId(const Ticket &ticket, const Vector<Movie> movies,
+                 const Vector<ShowTime> showtimes);
+
+  ShowTime getShowTime(int showTimeId, const Vector<ShowTime> &showtimes);
+
+  ftxui::Element DisplayTicketsAll(const Vector<Account> accounts,
+                                   const Vector<Ticket> tickets,
+                                   const ShowTime &showtime,
+                                   const Vector<Movie> &movies,
+                                   const std::string &search_query);
+
+  ftxui::Element DisplayTicketsAll(const Vector<Ticket> tickets,
+                                   const Vector<ShowTime> &showtimes,
+                                   const Vector<Movie> &movies,
+                                   const Account account);
+
+  void ShowTicketInfo(const Vector<Account> accounts,
+                      const Vector<Ticket> &tickets,
+                      const Vector<Movie> &movies, const ShowTime &showtime);
+
+  void ShowTicketInfoForAccount(const Account account,
+                                const Vector<Ticket> &tickets,
+                                const Vector<Movie> &movies,
+                                const Vector<ShowTime> &showtimes);
+
+  void showTicket(const Vector<Account> accounts, const Vector<Ticket> &tickets,
+                  const Vector<Movie> &movies,
+                  const Vector<ShowTime> &showtimes);
+
+  void showUpdateAccountMenu(Accounts &accounts, Account &account);
+
+  void updateMovie(Movies &movies, Movie movie);
+
+  void displayMovie(const Vector<Movie> &movie,
+                    const Vector<ShowTime> &showtime);
+
+  void displayShowTimes(const Vector<Movie> &movies,
+                        const Vector<ShowTime> &showtimes);
+
+  void addShowTime(Movies &movies, ShowTimes &showTimes);
+
+  ftxui::Element DisplayShowTimes(const Vector<ShowTime> &showTimes);
+
+  ftxui::Element DisplayCheckedTicket(const Movie &movie,
+                                      const ShowTime &showtime,
+                                      const Account &account,
+                                      Vector<int> isSelected, Tickets &tickets);
+
+  bool Step4_DisplayCheckedTicket(const Movie &movie, const ShowTime &showtime,
+                                  const Account &account,
+                                  Vector<int> isSelected, Tickets &tickets);
+
+  void removeSeat(Vector<int> &selectedSeats, int seat);
+
+  bool Step3_SelectSeat(const Movie &movie, const ShowTime &showtime,
+                        const Account &account, Tickets &tickets);
+
+  bool Step2_SelectShowTime(const Movie &movie,
+                            const Vector<ShowTime> &showtimes,
+                            const Account &account, Tickets &tickets);
+
+  void Step1_SelectMovie(const Vector<Movie> &movie,
+                         const Vector<ShowTime> &showtimes,
+                         const Account &accounts, Tickets &tickets);
+
+  void BookingTicket(const Vector<Movie> &movies,
+                     const Vector<ShowTime> &showtimes, const Account &account,
+                     Tickets &tickets);
+
+  bool checkDateByMonthAndYear(const Ticket &ticket, int month);
+
+  int maxOfVectorInt(Vector<int> nums);
 };
 
 #endif

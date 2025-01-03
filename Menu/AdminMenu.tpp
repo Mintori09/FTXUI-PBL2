@@ -124,8 +124,6 @@ AdminMenu::displayQuarterStatistics(const Vector<Ticket> &tickets,
     quarter_Statistics.push_back(
         hbox(text("Quarter") | bold | color(Color::Blue) |
              size(WIDTH, EQUAL, 10) | hcenter,
-             text("Year: " + std::to_string(year)) | bold | color(Color::Blue) |
-             size(WIDTH, EQUAL, 20) | hcenter,
              separator(),
              text("Total") | bold | color(Color::Blue) | size(WIDTH, EQUAL, 12) |
              hcenter));
@@ -134,8 +132,7 @@ AdminMenu::displayQuarterStatistics(const Vector<Ticket> &tickets,
     for (int i = 0; i < quarters.size(); ++i) {
         quarter_Statistics.push_back(separator());
         quarter_Statistics.push_back(hbox(
-            text("Q" + std::to_string(quarters[i])) | size(WIDTH, EQUAL, 10),
-            text(" " + std::to_string(year)) |
+            text("Q" + std::to_string(quarters[i]) + " " + std::to_string(year)) | size(WIDTH, EQUAL, 10),
             size(WIDTH, EQUAL, 6), // Thêm năm vào quý
             separator(), text(std::to_string(totals[i])) | size(WIDTH, EQUAL, 12)));
     }
@@ -156,6 +153,10 @@ AdminMenu::displayQuarterStatistics(const Vector<Ticket> &tickets,
 
     // Kết quả cuối cùng
     Elements result;
+
+    result.push_back(
+             text("Year: " + std::to_string(year)) | bold | color(Color::Blue) | center
+            );
     result.push_back(
         vbox(vbox(quarter_Statistics) | border | center | size(WIDTH, EQUAL, 50),
              separator(),
