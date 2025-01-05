@@ -96,11 +96,11 @@
 		},
 		{
 			"backtrace" : 2,
-			"id" : "dom::@3a7f0267f639f856c653"
+			"id" : "component::@3a7f0267f639f856c653"
 		},
 		{
 			"backtrace" : 2,
-			"id" : "component::@3a7f0267f639f856c653"
+			"id" : "dom::@3a7f0267f639f856c653"
 		}
 	],
 	"id" : "ftxui_starter::@6890427a1f51a3e7e1df",
@@ -192,7 +192,7 @@
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Menu/Map.h",
+			"path" : "include/Map.h",
 			"sourceGroupIndex" : 1
 		},
 		{

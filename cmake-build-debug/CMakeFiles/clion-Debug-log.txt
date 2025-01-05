@@ -10,6 +10,6 @@
 -- │ FTXUI_DEV_WARNINGS       : OFF
 -- │ FTXUI_CLANG_TIDY         : OFF
 -- └─────────────────────────────────────
--- Configuring done (0.9s)
--- Generating done (0.2s)
+-- Configuring done (2.0s)
+-- Generating done (0.4s)
 -- Build files have been written to: C:/Users/Tvmth/Desktop/FTXUI-PBL2/cmake-build-debug

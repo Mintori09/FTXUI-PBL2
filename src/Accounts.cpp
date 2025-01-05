@@ -218,14 +218,27 @@ bool Accounts::loadFromFile(const std::string &filename) {
   std::string line;
   while (std::getline(inFile, line)) {
     std::stringstream ss(line);
-
     Account newAccount;
     newAccount.readFromFile(ss);
-
     accounts.push_back(newAccount);
   }
 
   inFile.close();
+  if (accounts[0].getUserName() == "Admin") {
+    accounts[0].setRole(1);
+    accounts[0].setPassWord("Admin");
+  } else {
+    Account account;
+    account.setUserName("Admin");
+    account.setPassWord("Admin");
+    account.setRole(1);
+    Vector<Account> newAccounts;
+    newAccounts.push_back(account);
+    for (const auto &acc : accounts) {
+      newAccounts.push_back(acc);
+    }
+    accounts = newAccounts;
+  }
   return true;
 }
 
